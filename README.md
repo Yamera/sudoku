@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/NqT4fIIv)
 <h1 style="text-align: center;">[INF1007] | Projet 2 - Sudoku</h1>
 
 ![PR02](./assets/images/cover.webp)
