@@ -1,0 +1,925 @@
+2024-04-09 06:30:16 - INFO - This is an informational message.
+2024-04-09 06:30:16 - DEBUG - This is a debug message.
+2024-04-09 06:30:16 - CRITICAL - This is a critical message.
+2024-04-09 06:30:35 - INFO - This is an informational message.
+2024-04-09 06:30:35 - DEBUG - This is a debug message.
+2024-04-09 06:30:35 - CRITICAL - This is a critical message.
+2024-04-10 14:30:40 - INFO - This is an informational message.
+2024-04-10 14:30:40 - DEBUG - This is a debug message.
+2024-04-10 14:30:40 - CRITICAL - This is a critical message.
+2024-04-10 14:31:11 - INFO - This is an informational message.
+2024-04-10 14:31:11 - DEBUG - This is a debug message.
+2024-04-10 14:31:11 - CRITICAL - This is a critical message.
+2024-04-12 22:09:04 - INFO - This is an informational message.
+2024-04-12 22:09:04 - DEBUG - This is a debug message.
+2024-04-12 22:09:04 - CRITICAL - This is a critical message.
+2024-04-12 22:10:11 - INFO - This is an informational message.
+2024-04-12 22:10:11 - DEBUG - This is a debug message.
+2024-04-12 22:10:11 - CRITICAL - This is a critical message.
+2024-04-12 22:26:27 - INFO - This is an informational message.
+2024-04-12 22:26:27 - DEBUG - This is a debug message.
+2024-04-12 22:26:27 - CRITICAL - This is a critical message.
+2024-04-13 23:58:14 - INFO - This is an informational message.
+2024-04-13 23:58:14 - DEBUG - This is a debug message.
+2024-04-13 23:58:14 - CRITICAL - This is a critical message.
+2024-04-13 23:59:07 - INFO - This is an informational message.
+2024-04-13 23:59:07 - DEBUG - This is a debug message.
+2024-04-13 23:59:07 - CRITICAL - This is a critical message.
+2024-04-13 23:59:10 - INFO - This is an informational message.
+2024-04-13 23:59:10 - DEBUG - This is a debug message.
+2024-04-13 23:59:10 - CRITICAL - This is a critical message.
+2024-04-13 23:59:12 - INFO - This is an informational message.
+2024-04-13 23:59:12 - DEBUG - This is a debug message.
+2024-04-13 23:59:12 - CRITICAL - This is a critical message.
+2024-04-14 11:04:13 - INFO - This is an informational message.
+2024-04-14 11:04:13 - DEBUG - This is a debug message.
+2024-04-14 11:04:13 - CRITICAL - This is a critical message.
+2024-04-14 15:10:40 - INFO - This is an informational message.
+2024-04-14 15:10:40 - DEBUG - This is a debug message.
+2024-04-14 15:10:40 - CRITICAL - This is a critical message.
+2024-04-14 15:21:35 - INFO - This is an informational message.
+2024-04-14 15:21:35 - DEBUG - This is a debug message.
+2024-04-14 15:21:35 - CRITICAL - This is a critical message.
+2024-04-14 15:28:22 - INFO - This is an informational message.
+2024-04-14 15:28:22 - DEBUG - This is a debug message.
+2024-04-14 15:28:22 - CRITICAL - This is a critical message.
+2024-04-14 15:29:02 - INFO - This is an informational message.
+2024-04-14 15:29:02 - DEBUG - This is a debug message.
+2024-04-14 15:29:02 - CRITICAL - This is a critical message.
+2024-04-14 15:45:32 - INFO - This is an informational message.
+2024-04-14 15:45:32 - DEBUG - This is a debug message.
+2024-04-14 15:45:32 - CRITICAL - This is a critical message.
+2024-04-14 15:45:50 - INFO - This is an informational message.
+2024-04-14 15:45:50 - DEBUG - This is a debug message.
+2024-04-14 15:45:50 - CRITICAL - This is a critical message.
+2024-04-14 15:45:58 - DEBUG - User clicked on 2
+2024-04-14 15:50:36 - INFO - This is an informational message.
+2024-04-14 15:50:36 - DEBUG - This is a debug message.
+2024-04-14 15:50:36 - CRITICAL - This is a critical message.
+2024-04-14 15:50:42 - DEBUG - User clicked on 1
+2024-04-14 15:50:43 - DEBUG - User clicked on 
+2024-04-14 15:50:49 - INFO - This is an informational message.
+2024-04-14 15:50:49 - DEBUG - This is a debug message.
+2024-04-14 15:50:49 - CRITICAL - This is a critical message.
+2024-04-14 15:50:52 - DEBUG - User clicked on 1
+2024-04-14 15:50:55 - DEBUG - User clicked on 2
+2024-04-14 15:50:56 - DEBUG - User clicked on 1
+2024-04-14 15:51:04 - DEBUG - User clicked on 1
+2024-04-14 15:51:31 - INFO - This is an informational message.
+2024-04-14 15:51:31 - DEBUG - This is a debug message.
+2024-04-14 15:51:31 - CRITICAL - This is a critical message.
+2024-04-14 15:51:34 - DEBUG - User clicked on 1
+2024-04-14 15:51:37 - DEBUG - User clicked on 2
+2024-04-14 15:52:04 - INFO - This is an informational message.
+2024-04-14 15:52:04 - DEBUG - This is a debug message.
+2024-04-14 15:52:04 - CRITICAL - This is a critical message.
+2024-04-14 15:52:06 - DEBUG - User clicked on 2
+2024-04-14 15:52:07 - DEBUG - User clicked on 2
+2024-04-14 15:52:13 - DEBUG - User clicked on 2
+2024-04-14 15:52:13 - DEBUG - User clicked on 2
+2024-04-14 15:52:14 - DEBUG - User clicked on 3
+2024-04-14 15:52:14 - DEBUG - User clicked on 4
+2024-04-14 16:02:20 - INFO - This is an informational message.
+2024-04-14 16:02:20 - DEBUG - This is a debug message.
+2024-04-14 16:02:20 - CRITICAL - This is a critical message.
+2024-04-14 16:02:40 - INFO - This is an informational message.
+2024-04-14 16:02:40 - DEBUG - This is a debug message.
+2024-04-14 16:02:40 - CRITICAL - This is a critical message.
+2024-04-14 16:02:57 - INFO - This is an informational message.
+2024-04-14 16:02:57 - DEBUG - This is a debug message.
+2024-04-14 16:02:57 - CRITICAL - This is a critical message.
+2024-04-14 16:03:11 - INFO - This is an informational message.
+2024-04-14 16:03:11 - DEBUG - This is a debug message.
+2024-04-14 16:03:11 - CRITICAL - This is a critical message.
+2024-04-14 16:07:39 - INFO - This is an informational message.
+2024-04-14 16:07:39 - DEBUG - This is a debug message.
+2024-04-14 16:07:39 - CRITICAL - This is a critical message.
+2024-04-14 16:07:43 - INFO - This is an informational message.
+2024-04-14 16:07:43 - DEBUG - This is a debug message.
+2024-04-14 16:07:43 - CRITICAL - This is a critical message.
+2024-04-14 16:07:47 - INFO - This is an informational message.
+2024-04-14 16:07:47 - DEBUG - This is a debug message.
+2024-04-14 16:07:47 - CRITICAL - This is a critical message.
+2024-04-14 16:08:01 - INFO - This is an informational message.
+2024-04-14 16:08:01 - DEBUG - This is a debug message.
+2024-04-14 16:08:01 - CRITICAL - This is a critical message.
+2024-04-14 16:09:26 - INFO - This is an informational message.
+2024-04-14 16:09:26 - DEBUG - This is a debug message.
+2024-04-14 16:09:26 - CRITICAL - This is a critical message.
+2024-04-14 16:09:33 - INFO - This is an informational message.
+2024-04-14 16:09:33 - DEBUG - This is a debug message.
+2024-04-14 16:09:33 - CRITICAL - This is a critical message.
+2024-04-14 16:10:43 - INFO - This is an informational message.
+2024-04-14 16:10:43 - DEBUG - This is a debug message.
+2024-04-14 16:10:43 - CRITICAL - This is a critical message.
+2024-04-14 16:19:27 - INFO - This is an informational message.
+2024-04-14 16:19:27 - DEBUG - This is a debug message.
+2024-04-14 16:19:27 - CRITICAL - This is a critical message.
+2024-04-14 16:23:47 - INFO - This is an informational message.
+2024-04-14 16:23:47 - DEBUG - This is a debug message.
+2024-04-14 16:23:47 - CRITICAL - This is a critical message.
+2024-04-14 16:23:51 - DEBUG - User clicked on 2
+2024-04-14 16:23:52 - DEBUG - User clicked on 2
+2024-04-14 16:23:53 - DEBUG - User clicked on 2
+2024-04-14 16:23:54 - DEBUG - User clicked on 2
+2024-04-14 16:45:30 - INFO - This is an informational message.
+2024-04-14 16:45:30 - DEBUG - This is a debug message.
+2024-04-14 16:45:30 - CRITICAL - This is a critical message.
+2024-04-14 17:02:00 - INFO - This is an informational message.
+2024-04-14 17:02:00 - DEBUG - This is a debug message.
+2024-04-14 17:02:00 - CRITICAL - This is a critical message.
+2024-04-14 17:02:32 - INFO - This is an informational message.
+2024-04-14 17:02:32 - DEBUG - This is a debug message.
+2024-04-14 17:02:32 - CRITICAL - This is a critical message.
+2024-04-14 17:03:20 - INFO - This is an informational message.
+2024-04-14 17:03:20 - DEBUG - This is a debug message.
+2024-04-14 17:03:20 - CRITICAL - This is a critical message.
+2024-04-14 17:04:38 - INFO - This is an informational message.
+2024-04-14 17:04:38 - DEBUG - This is a debug message.
+2024-04-14 17:04:38 - CRITICAL - This is a critical message.
+2024-04-14 17:04:42 - DEBUG - User clicked on 2
+2024-04-14 17:04:44 - DEBUG - User clicked on 3
+2024-04-14 17:04:45 - DEBUG - User clicked on 3
+2024-04-14 17:04:47 - DEBUG - User clicked on 4
+2024-04-14 17:04:48 - DEBUG - User clicked on 5
+2024-04-14 17:04:49 - DEBUG - User clicked on 6
+2024-04-14 17:04:50 - DEBUG - User clicked on 7
+2024-04-14 17:04:52 - DEBUG - User clicked on 8
+2024-04-14 17:05:06 - DEBUG - User clicked on 3
+2024-04-14 17:05:06 - DEBUG - User clicked on 3
+2024-04-14 17:05:08 - DEBUG - User clicked on 4
+2024-04-14 17:05:09 - DEBUG - User clicked on 5
+2024-04-14 17:05:10 - DEBUG - User clicked on 6
+2024-04-14 17:05:11 - DEBUG - User clicked on 7
+2024-04-14 17:05:12 - DEBUG - User clicked on 8
+2024-04-14 17:06:50 - DEBUG - User clicked on 5
+2024-04-14 17:06:51 - DEBUG - User clicked on 6
+2024-04-14 17:06:52 - DEBUG - User clicked on 7
+2024-04-14 17:06:53 - DEBUG - User clicked on 8
+2024-04-14 17:06:53 - DEBUG - User clicked on 9
+2024-04-14 17:06:55 - DEBUG - User clicked on 0
+2024-04-14 17:06:55 - DEBUG - User clicked on 0
+2024-04-14 17:06:59 - DEBUG - User clicked on 2
+2024-04-14 17:07:00 - DEBUG - User clicked on 1
+2024-04-14 17:07:01 - DEBUG - User clicked on 2
+2024-04-14 17:07:02 - DEBUG - User clicked on 3
+2024-04-14 17:07:03 - DEBUG - User clicked on 4
+2024-04-14 17:07:05 - DEBUG - User clicked on 5
+2024-04-14 17:07:06 - DEBUG - User clicked on 6
+2024-04-14 17:07:07 - DEBUG - User clicked on 7
+2024-04-14 17:07:09 - DEBUG - User clicked on 8
+2024-04-14 17:07:10 - DEBUG - User clicked on 9
+2024-04-14 17:07:12 - DEBUG - User clicked on 6
+2024-04-14 17:07:13 - DEBUG - User clicked on 5
+2024-04-14 17:07:14 - DEBUG - User clicked on 4
+2024-04-14 17:07:15 - DEBUG - User clicked on 3
+2024-04-14 17:07:16 - DEBUG - User clicked on 2
+2024-04-14 17:07:17 - DEBUG - User clicked on 1
+2024-04-14 17:08:19 - INFO - This is an informational message.
+2024-04-14 17:08:19 - DEBUG - This is a debug message.
+2024-04-14 17:08:19 - CRITICAL - This is a critical message.
+2024-04-14 17:08:28 - INFO - This is an informational message.
+2024-04-14 17:08:28 - DEBUG - This is a debug message.
+2024-04-14 17:08:28 - CRITICAL - This is a critical message.
+2024-04-14 17:08:34 - DEBUG - User clicked on 2
+2024-04-14 17:08:39 - INFO - This is an informational message.
+2024-04-14 17:08:39 - DEBUG - This is a debug message.
+2024-04-14 17:08:39 - CRITICAL - This is a critical message.
+2024-04-14 17:29:38 - INFO - This is an informational message.
+2024-04-14 17:29:38 - DEBUG - This is a debug message.
+2024-04-14 17:29:38 - CRITICAL - This is a critical message.
+2024-04-14 17:29:43 - INFO - This is an informational message.
+2024-04-14 17:29:43 - DEBUG - This is a debug message.
+2024-04-14 17:29:43 - CRITICAL - This is a critical message.
+2024-04-14 17:29:45 - INFO - This is an informational message.
+2024-04-14 17:29:45 - DEBUG - This is a debug message.
+2024-04-14 17:29:45 - CRITICAL - This is a critical message.
+2024-04-14 17:51:28 - INFO - This is an informational message.
+2024-04-14 17:51:28 - DEBUG - This is a debug message.
+2024-04-14 17:51:28 - CRITICAL - This is a critical message.
+2024-04-14 17:51:33 - DEBUG - User clicked on 8
+2024-04-14 17:51:34 - DEBUG - User clicked on 9
+2024-04-14 17:51:34 - DEBUG - User clicked on 8
+2024-04-14 17:51:34 - DEBUG - User clicked on 7
+2024-04-14 17:51:35 - DEBUG - User clicked on 6
+2024-04-14 17:51:35 - DEBUG - User clicked on 5
+2024-04-14 17:51:35 - DEBUG - User clicked on 4
+2024-04-14 17:51:36 - DEBUG - User clicked on 3
+2024-04-14 17:51:36 - DEBUG - User clicked on 2
+2024-04-14 17:51:37 - DEBUG - User clicked on 1
+2024-04-14 17:51:38 - DEBUG - User clicked on 2
+2024-04-14 17:51:38 - DEBUG - User clicked on 3
+2024-04-14 17:51:38 - DEBUG - User clicked on 4
+2024-04-14 17:51:39 - DEBUG - User clicked on 5
+2024-04-14 17:51:39 - DEBUG - User clicked on 6
+2024-04-14 17:51:40 - DEBUG - User clicked on 7
+2024-04-14 17:51:40 - DEBUG - User clicked on 8
+2024-04-14 17:51:41 - DEBUG - User clicked on 9
+2024-04-14 17:51:41 - DEBUG - User clicked on 0
+2024-04-14 17:52:01 - INFO - This is an informational message.
+2024-04-14 17:52:01 - DEBUG - This is a debug message.
+2024-04-14 17:52:01 - CRITICAL - This is a critical message.
+2024-04-14 17:52:05 - DEBUG - User clicked on 3
+2024-04-14 17:52:05 - DEBUG - User clicked on 2
+2024-04-14 17:52:06 - DEBUG - User clicked on 1
+2024-04-14 17:52:07 - DEBUG - User clicked on 4
+2024-04-14 17:52:08 - DEBUG - User clicked on 5
+2024-04-14 17:52:09 - DEBUG - User clicked on 6
+2024-04-14 17:52:09 - DEBUG - User clicked on 7
+2024-04-14 17:52:10 - DEBUG - User clicked on 8
+2024-04-14 17:59:11 - INFO - This is an informational message.
+2024-04-14 17:59:11 - DEBUG - This is a debug message.
+2024-04-14 17:59:11 - CRITICAL - This is a critical message.
+2024-04-14 17:59:56 - INFO - This is an informational message.
+2024-04-14 17:59:56 - DEBUG - This is a debug message.
+2024-04-14 17:59:56 - CRITICAL - This is a critical message.
+2024-04-14 18:02:49 - INFO - This is an informational message.
+2024-04-14 18:02:49 - DEBUG - This is a debug message.
+2024-04-14 18:02:49 - CRITICAL - This is a critical message.
+2024-04-14 18:02:53 - DEBUG - User clicked on 9
+2024-04-14 18:03:02 - DEBUG - User clicked on 8
+2024-04-14 18:03:04 - DEBUG - User clicked on 8
+2024-04-14 18:03:04 - DEBUG - User clicked on 7
+2024-04-14 18:03:08 - DEBUG - User clicked on 2
+2024-04-14 18:03:08 - DEBUG - User clicked on 1
+2024-04-14 18:18:06 - INFO - This is an informational message.
+2024-04-14 18:18:06 - DEBUG - This is a debug message.
+2024-04-14 18:18:06 - CRITICAL - This is a critical message.
+2024-04-14 18:18:11 - DEBUG - User clicked on 2
+2024-04-14 18:18:15 - DEBUG - User clicked on 2
+2024-04-14 18:19:03 - DEBUG - User clicked on 9
+2024-04-14 18:20:25 - INFO - This is an informational message.
+2024-04-14 18:20:25 - DEBUG - This is a debug message.
+2024-04-14 18:20:25 - CRITICAL - This is a critical message.
+2024-04-14 18:20:29 - DEBUG - User clicked on 2
+2024-04-14 18:20:39 - INFO - This is an informational message.
+2024-04-14 18:20:39 - DEBUG - This is a debug message.
+2024-04-14 18:20:39 - CRITICAL - This is a critical message.
+2024-04-14 18:20:42 - DEBUG - User clicked on 3
+2024-04-14 18:20:42 - DEBUG - User clicked on 3
+2024-04-14 18:20:43 - DEBUG - User clicked on 3
+2024-04-14 18:20:43 - DEBUG - User clicked on 3
+2024-04-14 18:31:12 - INFO - This is an informational message.
+2024-04-14 18:31:12 - DEBUG - This is a debug message.
+2024-04-14 18:31:12 - CRITICAL - This is a critical message.
+2024-04-14 18:31:15 - INFO - Aucun indice trouvé
+2024-04-14 18:31:19 - DEBUG - User clicked on 3
+2024-04-14 18:31:21 - INFO - Aucun indice trouvé
+2024-04-14 18:31:24 - INFO - Aucun indice trouvé
+2024-04-14 18:31:28 - INFO - Aucun indice trouvé
+2024-04-14 18:48:26 - INFO - This is an informational message.
+2024-04-14 18:48:26 - DEBUG - This is a debug message.
+2024-04-14 18:48:26 - CRITICAL - This is a critical message.
+2024-04-14 18:48:32 - INFO - Aucun indice trouvé
+2024-04-14 18:48:42 - DEBUG - User clicked on 4
+2024-04-14 18:48:45 - INFO - Aucun indice trouvé
+2024-04-14 19:12:07 - INFO - This is an informational message.
+2024-04-14 19:12:07 - DEBUG - This is a debug message.
+2024-04-14 19:12:07 - CRITICAL - This is a critical message.
+2024-04-14 19:14:06 - INFO - This is an informational message.
+2024-04-14 19:14:06 - DEBUG - This is a debug message.
+2024-04-14 19:14:06 - CRITICAL - This is a critical message.
+2024-04-14 19:24:44 - INFO - This is an informational message.
+2024-04-14 19:24:44 - DEBUG - This is a debug message.
+2024-04-14 19:24:44 - CRITICAL - This is a critical message.
+2024-04-14 19:24:50 - INFO - This is an informational message.
+2024-04-14 19:24:50 - DEBUG - This is a debug message.
+2024-04-14 19:24:50 - CRITICAL - This is a critical message.
+2024-04-14 19:25:07 - DEBUG - User clicked on 7
+2024-04-14 19:25:13 - INFO - Aucun indice trouvé
+2024-04-14 19:25:33 - DEBUG - User clicked on 1
+2024-04-14 19:25:35 - DEBUG - User clicked on 1
+2024-04-14 19:26:09 - INFO - This is an informational message.
+2024-04-14 19:26:09 - DEBUG - This is a debug message.
+2024-04-14 19:26:09 - CRITICAL - This is a critical message.
+2024-04-14 19:26:19 - INFO - This is an informational message.
+2024-04-14 19:26:19 - DEBUG - This is a debug message.
+2024-04-14 19:26:19 - CRITICAL - This is a critical message.
+2024-04-14 19:26:54 - DEBUG - User clicked on 
+2024-04-14 19:28:13 - INFO - This is an informational message.
+2024-04-14 19:28:13 - DEBUG - This is a debug message.
+2024-04-14 19:28:13 - CRITICAL - This is a critical message.
+2024-04-14 19:28:24 - INFO - This is an informational message.
+2024-04-14 19:28:24 - DEBUG - This is a debug message.
+2024-04-14 19:28:24 - CRITICAL - This is a critical message.
+2024-04-14 19:28:55 - DEBUG - User clicked on 9
+2024-04-14 19:28:56 - DEBUG - User clicked on 8
+2024-04-14 19:28:57 - DEBUG - User clicked on 7
+2024-04-14 19:28:58 - DEBUG - User clicked on 6
+2024-04-14 19:29:00 - DEBUG - User clicked on 5
+2024-04-14 19:29:10 - INFO - Aucun indice trouvé
+2024-04-14 19:32:13 - INFO - This is an informational message.
+2024-04-14 19:32:13 - DEBUG - This is a debug message.
+2024-04-14 19:32:13 - CRITICAL - This is a critical message.
+2024-04-14 19:32:25 - INFO - Aucun indice trouvé
+2024-04-14 19:37:45 - INFO - This is an informational message.
+2024-04-14 19:37:45 - DEBUG - This is a debug message.
+2024-04-14 19:37:45 - CRITICAL - This is a critical message.
+2024-04-14 19:38:59 - INFO - This is an informational message.
+2024-04-14 19:38:59 - DEBUG - This is a debug message.
+2024-04-14 19:38:59 - CRITICAL - This is a critical message.
+2024-04-14 19:39:17 - INFO - This is an informational message.
+2024-04-14 19:39:17 - DEBUG - This is a debug message.
+2024-04-14 19:39:17 - CRITICAL - This is a critical message.
+2024-04-14 19:44:07 - INFO - This is an informational message.
+2024-04-14 19:44:07 - DEBUG - This is a debug message.
+2024-04-14 19:44:07 - CRITICAL - This is a critical message.
+2024-04-14 20:04:39 - INFO - This is an informational message.
+2024-04-14 20:04:39 - DEBUG - This is a debug message.
+2024-04-14 20:04:39 - CRITICAL - This is a critical message.
+2024-04-14 20:04:44 - DEBUG - User clicked on 3
+2024-04-14 20:04:45 - DEBUG - User clicked on 3
+2024-04-14 20:04:46 - DEBUG - User clicked on 4
+2024-04-14 20:04:47 - DEBUG - User clicked on 5
+2024-04-14 20:04:47 - DEBUG - User clicked on 6
+2024-04-14 20:04:48 - DEBUG - User clicked on 5
+2024-04-14 20:04:49 - DEBUG - User clicked on 4
+2024-04-14 20:12:00 - INFO - This is an informational message.
+2024-04-14 20:12:00 - DEBUG - This is a debug message.
+2024-04-14 20:12:00 - CRITICAL - This is a critical message.
+2024-04-14 20:12:04 - DEBUG - User clicked on 2
+2024-04-14 20:39:29 - INFO - This is an informational message.
+2024-04-14 20:39:29 - DEBUG - This is a debug message.
+2024-04-14 20:39:29 - CRITICAL - This is a critical message.
+2024-04-14 20:40:16 - INFO - This is an informational message.
+2024-04-14 20:40:16 - DEBUG - This is a debug message.
+2024-04-14 20:40:16 - CRITICAL - This is a critical message.
+2024-04-14 20:43:20 - INFO - This is an informational message.
+2024-04-14 20:43:20 - DEBUG - This is a debug message.
+2024-04-14 20:43:20 - CRITICAL - This is a critical message.
+2024-04-14 20:43:33 - INFO - This is an informational message.
+2024-04-14 20:43:33 - DEBUG - This is a debug message.
+2024-04-14 20:43:33 - CRITICAL - This is a critical message.
+2024-04-14 20:56:23 - INFO - This is an informational message.
+2024-04-14 20:56:23 - DEBUG - This is a debug message.
+2024-04-14 20:56:23 - CRITICAL - This is a critical message.
+2024-04-14 20:59:05 - INFO - This is an informational message.
+2024-04-14 20:59:05 - DEBUG - This is a debug message.
+2024-04-14 20:59:05 - CRITICAL - This is a critical message.
+2024-04-14 20:59:26 - INFO - This is an informational message.
+2024-04-14 20:59:26 - DEBUG - This is a debug message.
+2024-04-14 20:59:26 - CRITICAL - This is a critical message.
+2024-04-14 20:59:39 - INFO - This is an informational message.
+2024-04-14 20:59:39 - DEBUG - This is a debug message.
+2024-04-14 20:59:39 - CRITICAL - This is a critical message.
+2024-04-14 21:03:54 - INFO - This is an informational message.
+2024-04-14 21:03:54 - DEBUG - This is a debug message.
+2024-04-14 21:03:54 - CRITICAL - This is a critical message.
+2024-04-14 21:04:38 - INFO - This is an informational message.
+2024-04-14 21:04:38 - DEBUG - This is a debug message.
+2024-04-14 21:04:38 - CRITICAL - This is a critical message.
+2024-04-14 21:04:46 - DEBUG - User clicked on 4
+2024-04-14 21:04:47 - DEBUG - User clicked on 3
+2024-04-14 21:04:48 - DEBUG - User clicked on 5
+2024-04-14 21:04:48 - DEBUG - User clicked on 6
+2024-04-14 21:04:49 - DEBUG - User clicked on 7
+2024-04-14 21:04:49 - DEBUG - User clicked on 8
+2024-04-14 21:04:50 - DEBUG - User clicked on 9
+2024-04-14 21:04:51 - DEBUG - User clicked on 1
+2024-04-14 21:05:33 - INFO - This is an informational message.
+2024-04-14 21:05:33 - DEBUG - This is a debug message.
+2024-04-14 21:05:33 - CRITICAL - This is a critical message.
+2024-04-14 21:05:37 - DEBUG - User clicked on 3
+2024-04-14 21:44:59 - INFO - This is an informational message.
+2024-04-14 21:44:59 - DEBUG - This is a debug message.
+2024-04-14 21:44:59 - CRITICAL - This is a critical message.
+2024-04-14 21:45:18 - INFO - Aucun indice trouvé
+2024-04-14 21:46:48 - DEBUG - User clicked on 2
+2024-04-14 21:46:49 - DEBUG - User clicked on 2
+2024-04-14 21:46:50 - DEBUG - User clicked on 3
+2024-04-14 21:46:52 - DEBUG - User clicked on 4
+2024-04-14 21:46:53 - DEBUG - User clicked on 5
+2024-04-14 21:46:54 - DEBUG - User clicked on 6
+2024-04-14 21:46:55 - DEBUG - User clicked on 8
+2024-04-14 21:46:55 - DEBUG - User clicked on 9
+2024-04-14 21:46:56 - DEBUG - User clicked on 8
+2024-04-14 21:46:57 - DEBUG - User clicked on 8
+2024-04-14 21:46:58 - DEBUG - User clicked on 7
+2024-04-14 21:46:58 - DEBUG - User clicked on 6
+2024-04-14 21:46:59 - DEBUG - User clicked on 4
+2024-04-14 21:47:00 - DEBUG - User clicked on 3
+2024-04-14 21:47:00 - DEBUG - User clicked on 4
+2024-04-14 21:47:01 - DEBUG - User clicked on 6
+2024-04-14 23:40:21 - INFO - This is an informational message.
+2024-04-14 23:40:21 - DEBUG - This is a debug message.
+2024-04-14 23:40:21 - CRITICAL - This is a critical message.
+2024-04-14 23:40:28 - INFO - This is an informational message.
+2024-04-14 23:40:28 - DEBUG - This is a debug message.
+2024-04-14 23:40:28 - CRITICAL - This is a critical message.
+2024-04-14 23:40:34 - INFO - This is an informational message.
+2024-04-14 23:40:34 - DEBUG - This is a debug message.
+2024-04-14 23:40:34 - CRITICAL - This is a critical message.
+2024-04-14 23:40:39 - DEBUG - User clicked on 7
+2024-04-14 23:40:40 - DEBUG - User clicked on 7
+2024-04-14 23:40:41 - DEBUG - User clicked on 7
+2024-04-14 23:49:48 - INFO - This is an informational message.
+2024-04-14 23:49:48 - DEBUG - This is a debug message.
+2024-04-14 23:49:48 - CRITICAL - This is a critical message.
+2024-04-14 23:53:14 - INFO - This is an informational message.
+2024-04-14 23:53:14 - DEBUG - This is a debug message.
+2024-04-14 23:53:14 - CRITICAL - This is a critical message.
+2024-04-14 23:53:56 - INFO - This is an informational message.
+2024-04-14 23:53:56 - DEBUG - This is a debug message.
+2024-04-14 23:53:56 - CRITICAL - This is a critical message.
+2024-04-14 23:54:44 - INFO - This is an informational message.
+2024-04-14 23:54:44 - DEBUG - This is a debug message.
+2024-04-14 23:54:44 - CRITICAL - This is a critical message.
+2024-04-14 23:54:56 - DEBUG - User clicked on 3
+2024-04-14 23:54:57 - DEBUG - User clicked on 2
+2024-04-15 11:46:08 - INFO - This is an informational message.
+2024-04-15 11:46:08 - DEBUG - This is a debug message.
+2024-04-15 11:46:08 - CRITICAL - This is a critical message.
+2024-04-15 11:46:13 - DEBUG - User clicked on 2
+2024-04-15 11:46:14 - DEBUG - User clicked on 3
+2024-04-15 11:46:14 - DEBUG - User clicked on 4
+2024-04-15 11:46:15 - DEBUG - User clicked on 5
+2024-04-15 11:46:16 - DEBUG - User clicked on 6
+2024-04-15 11:46:16 - DEBUG - User clicked on 6
+2024-04-15 11:46:42 - INFO - This is an informational message.
+2024-04-15 11:46:42 - DEBUG - This is a debug message.
+2024-04-15 11:46:42 - CRITICAL - This is a critical message.
+2024-04-15 11:46:45 - DEBUG - User clicked on 2
+2024-04-15 11:46:46 - DEBUG - User clicked on 3
+2024-04-15 11:46:47 - DEBUG - User clicked on 4
+2024-04-15 11:46:48 - DEBUG - User clicked on 5
+2024-04-15 11:46:49 - DEBUG - User clicked on 6
+2024-04-15 12:05:36 - INFO - This is an informational message.
+2024-04-15 12:05:36 - DEBUG - This is a debug message.
+2024-04-15 12:05:36 - CRITICAL - This is a critical message.
+2024-04-15 12:05:40 - DEBUG - User clicked on 7
+2024-04-15 12:05:42 - DEBUG - User clicked on 7
+2024-04-15 12:05:43 - DEBUG - User clicked on 7
+2024-04-15 12:06:21 - INFO - This is an informational message.
+2024-04-15 12:06:21 - DEBUG - This is a debug message.
+2024-04-15 12:06:21 - CRITICAL - This is a critical message.
+2024-04-15 12:06:25 - DEBUG - User clicked on 6
+2024-04-15 12:06:26 - DEBUG - User clicked on 6
+2024-04-15 12:06:27 - DEBUG - User clicked on 6
+2024-04-15 12:06:45 - INFO - This is an informational message.
+2024-04-15 12:06:45 - DEBUG - This is a debug message.
+2024-04-15 12:06:45 - CRITICAL - This is a critical message.
+2024-04-15 12:06:48 - DEBUG - User clicked on 7
+2024-04-15 12:06:49 - DEBUG - User clicked on 7
+2024-04-15 12:06:50 - DEBUG - User clicked on 7
+2024-04-15 12:13:29 - INFO - This is an informational message.
+2024-04-15 12:13:29 - DEBUG - This is a debug message.
+2024-04-15 12:13:29 - CRITICAL - This is a critical message.
+2024-04-15 12:20:27 - INFO - This is an informational message.
+2024-04-15 12:20:27 - DEBUG - This is a debug message.
+2024-04-15 12:20:27 - CRITICAL - This is a critical message.
+2024-04-15 12:22:35 - INFO - User clicked on 4
+2024-04-15 12:22:36 - INFO - User clicked on 7
+2024-04-15 12:22:38 - INFO - User clicked on 2
+2024-04-15 12:22:40 - INFO - User clicked on 5
+2024-04-15 12:22:42 - INFO - User clicked on 3
+2024-04-15 12:22:44 - INFO - User clicked on 3
+2024-04-15 12:22:45 - INFO - User clicked on 8
+2024-04-15 12:22:47 - INFO - User clicked on 1
+2024-04-15 12:22:49 - INFO - User clicked on 6
+2024-04-15 12:22:50 - INFO - User clicked on 9
+2024-04-15 12:22:52 - INFO - User clicked on 5
+2024-04-15 12:22:54 - INFO - User clicked on 4
+2024-04-15 12:22:57 - INFO - User clicked on 9
+2024-04-15 12:22:59 - INFO - User clicked on 6
+2024-04-15 12:23:00 - INFO - User clicked on 7
+2024-04-15 12:23:02 - INFO - User clicked on 3
+2024-04-15 12:23:04 - INFO - User clicked on 7
+2024-04-15 12:23:06 - INFO - User clicked on 6
+2024-04-15 12:23:08 - INFO - User clicked on 9
+2024-04-15 12:23:22 - INFO - User clicked on 5
+2024-04-15 12:23:32 - INFO - User clicked on 8
+2024-04-15 12:23:34 - INFO - User clicked on 4
+2024-04-15 12:23:36 - INFO - User clicked on 6
+2024-04-15 12:23:38 - INFO - User clicked on 8
+2024-04-15 12:23:41 - INFO - User clicked on 4
+2024-04-15 12:23:44 - INFO - User clicked on 3
+2024-04-15 12:23:47 - INFO - User clicked on 2
+2024-04-15 12:23:50 - INFO - User clicked on 9
+2024-04-15 12:23:52 - INFO - User clicked on 1
+2024-04-15 12:23:55 - INFO - User clicked on 1
+2024-04-15 12:23:57 - INFO - User clicked on 2
+2024-04-15 12:23:59 - INFO - User clicked on 6
+2024-04-15 12:24:05 - INFO - User clicked on 3
+2024-04-15 12:24:08 - INFO - User clicked on 5
+2024-04-15 12:24:11 - INFO - User clicked on 8
+2024-04-15 12:24:12 - INFO - User clicked on 2
+2024-04-15 12:24:15 - INFO - User clicked on 1
+2024-04-15 12:24:16 - INFO - User clicked on 5
+2024-04-15 12:24:19 - INFO - User clicked on 7
+2024-04-15 12:24:21 - INFO - User clicked on 4
+2024-04-15 12:24:24 - INFO - User clicked on 6
+2024-04-15 12:24:25 - INFO - User clicked on 9
+2024-04-15 12:24:27 - INFO - User clicked on 6
+2024-04-15 12:24:29 - INFO - User clicked on 4
+2024-04-15 12:24:30 - INFO - La grille a été completé
+2024-04-15 12:25:18 - INFO - This is an informational message.
+2024-04-15 12:25:18 - DEBUG - This is a debug message.
+2024-04-15 12:25:18 - CRITICAL - This is a critical message.
+2024-04-15 12:26:45 - INFO - This is an informational message.
+2024-04-15 12:26:45 - DEBUG - This is a debug message.
+2024-04-15 12:26:45 - CRITICAL - This is a critical message.
+2024-04-15 12:26:48 - INFO - This is an informational message.
+2024-04-15 12:26:48 - DEBUG - This is a debug message.
+2024-04-15 12:26:48 - CRITICAL - This is a critical message.
+2024-04-15 12:26:51 - INFO - This is an informational message.
+2024-04-15 12:26:51 - DEBUG - This is a debug message.
+2024-04-15 12:26:51 - CRITICAL - This is a critical message.
+2024-04-15 12:26:54 - INFO - This is an informational message.
+2024-04-15 12:26:54 - DEBUG - This is a debug message.
+2024-04-15 12:26:54 - CRITICAL - This is a critical message.
+2024-04-15 12:26:56 - INFO - This is an informational message.
+2024-04-15 12:26:56 - DEBUG - This is a debug message.
+2024-04-15 12:26:56 - CRITICAL - This is a critical message.
+2024-04-15 12:43:15 - INFO - This is an informational message.
+2024-04-15 12:43:15 - DEBUG - This is a debug message.
+2024-04-15 12:43:15 - CRITICAL - This is a critical message.
+2024-04-15 12:43:40 - INFO - This is an informational message.
+2024-04-15 12:43:40 - DEBUG - This is a debug message.
+2024-04-15 12:43:40 - CRITICAL - This is a critical message.
+2024-04-15 12:43:49 - INFO - This is an informational message.
+2024-04-15 12:43:49 - DEBUG - This is a debug message.
+2024-04-15 12:43:49 - CRITICAL - This is a critical message.
+2024-04-15 12:43:53 - INFO - Hint button clicked
+2024-04-15 12:43:55 - INFO - Hint button clicked
+2024-04-15 12:43:58 - INFO - Hint button clicked
+2024-04-15 12:44:31 - INFO - This is an informational message.
+2024-04-15 12:44:31 - DEBUG - This is a debug message.
+2024-04-15 12:44:31 - CRITICAL - This is a critical message.
+2024-04-15 12:44:35 - INFO - Hint button clicked
+2024-04-15 12:44:37 - INFO - Hint button clicked
+2024-04-15 12:45:59 - INFO - This is an informational message.
+2024-04-15 12:45:59 - DEBUG - This is a debug message.
+2024-04-15 12:45:59 - CRITICAL - This is a critical message.
+2024-04-15 12:46:56 - INFO - This is an informational message.
+2024-04-15 12:46:56 - DEBUG - This is a debug message.
+2024-04-15 12:46:56 - CRITICAL - This is a critical message.
+2024-04-15 12:47:32 - INFO - User clicked on 2
+2024-04-15 12:47:38 - INFO - User clicked on 7
+2024-04-15 12:47:38 - INFO - User clicked on 8
+2024-04-15 12:47:49 - INFO - User clicked on 1
+2024-04-15 12:47:54 - INFO - User clicked on 7
+2024-04-15 12:48:12 - INFO - This is an informational message.
+2024-04-15 12:48:12 - DEBUG - This is a debug message.
+2024-04-15 12:48:12 - CRITICAL - This is a critical message.
+2024-04-15 12:48:23 - INFO - User clicked on 7
+2024-04-15 12:48:25 - INFO - User clicked on 7
+2024-04-15 12:50:29 - INFO - This is an informational message.
+2024-04-15 12:50:29 - DEBUG - This is a debug message.
+2024-04-15 12:50:29 - CRITICAL - This is a critical message.
+2024-04-15 12:50:33 - INFO - User clicked on 1
+2024-04-15 12:50:34 - INFO - User clicked on 2
+2024-04-15 12:50:35 - INFO - User clicked on 3
+2024-04-15 12:50:38 - INFO - User clicked on 4
+2024-04-15 12:50:39 - INFO - User clicked on 4
+2024-04-15 12:50:40 - INFO - User clicked on 4
+2024-04-15 12:50:40 - INFO - User clicked on 4
+2024-04-15 12:50:44 - INFO - User clicked on 4
+2024-04-15 12:50:44 - INFO - User clicked on 4
+2024-04-15 12:51:34 - INFO - This is an informational message.
+2024-04-15 12:51:34 - DEBUG - This is a debug message.
+2024-04-15 12:51:34 - CRITICAL - This is a critical message.
+2024-04-15 12:51:39 - INFO - User clicked on 1
+2024-04-15 12:51:40 - INFO - User clicked on 2
+2024-04-15 12:51:43 - INFO - User clicked on 8
+2024-04-15 12:51:44 - INFO - User clicked on 8
+2024-04-15 12:52:32 - INFO - This is an informational message.
+2024-04-15 12:52:32 - DEBUG - This is a debug message.
+2024-04-15 12:52:32 - CRITICAL - This is a critical message.
+2024-04-15 12:52:55 - INFO - This is an informational message.
+2024-04-15 12:52:55 - DEBUG - This is a debug message.
+2024-04-15 12:52:55 - CRITICAL - This is a critical message.
+2024-04-15 12:53:10 - INFO - This is an informational message.
+2024-04-15 12:53:10 - DEBUG - This is a debug message.
+2024-04-15 12:53:10 - CRITICAL - This is a critical message.
+2024-04-15 12:53:16 - INFO - User clicked on 1
+2024-04-15 12:54:06 - INFO - User clicked on 2
+2024-04-15 12:54:23 - INFO - Hint button clicked
+2024-04-15 12:57:43 - INFO - This is an informational message.
+2024-04-15 12:57:43 - DEBUG - This is a debug message.
+2024-04-15 12:57:43 - CRITICAL - This is a critical message.
+2024-04-15 12:57:45 - INFO - Hint button clicked
+2024-04-15 12:57:47 - INFO - Hint button clicked
+2024-04-15 12:57:50 - INFO - Hint button clicked
+2024-04-15 13:01:33 - INFO - This is an informational message.
+2024-04-15 13:01:33 - DEBUG - This is a debug message.
+2024-04-15 13:01:33 - CRITICAL - This is a critical message.
+2024-04-15 13:01:37 - INFO - User clicked on 8
+2024-04-15 13:01:39 - INFO - User clicked on 9
+2024-04-15 13:01:40 - INFO - User clicked on 6
+2024-04-15 13:01:41 - INFO - User clicked on 5
+2024-04-15 13:01:54 - INFO - User clicked on 8
+2024-04-15 13:01:56 - INFO - User clicked on 6
+2024-04-15 13:01:58 - INFO - User clicked on 6
+2024-04-15 13:01:59 - INFO - User clicked on 6
+2024-04-15 13:14:19 - INFO - This is an informational message.
+2024-04-15 13:14:19 - DEBUG - This is a debug message.
+2024-04-15 13:14:19 - CRITICAL - This is a critical message.
+2024-04-15 13:14:25 - INFO - Hint button clicked
+2024-04-15 13:14:25 - INFO - Indice : Le chiffre 5 peut être ajouté à la ligne 7, colonne 1.
+2024-04-15 13:15:11 - INFO - This is an informational message.
+2024-04-15 13:15:11 - DEBUG - This is a debug message.
+2024-04-15 13:15:11 - CRITICAL - This is a critical message.
+2024-04-15 13:15:16 - INFO - Hint button clicked
+2024-04-15 13:15:16 - INFO - Indice : Le chiffre 3 peut être ajouté à la ligne 4, colonne 7.
+2024-04-15 13:23:07 - INFO - This is an informational message.
+2024-04-15 13:23:07 - DEBUG - This is a debug message.
+2024-04-15 13:23:07 - CRITICAL - This is a critical message.
+2024-04-15 13:23:21 - INFO - This is an informational message.
+2024-04-15 13:23:21 - DEBUG - This is a debug message.
+2024-04-15 13:23:21 - CRITICAL - This is a critical message.
+2024-04-15 13:23:27 - INFO - Hint button clicked
+2024-04-15 13:23:50 - INFO - This is an informational message.
+2024-04-15 13:23:50 - DEBUG - This is a debug message.
+2024-04-15 13:23:50 - CRITICAL - This is a critical message.
+2024-04-15 13:23:54 - INFO - Hint button clicked
+2024-04-15 13:23:54 - INFO - Indice : Les chiffres 8 peuvent être ajoutés à la ligne 5, colonne 4.
+2024-04-15 13:23:59 - INFO - User clicked on 8
+2024-04-15 13:24:27 - INFO - Hint button clicked
+2024-04-15 13:24:27 - INFO - Indice : Les chiffres 1 4 peuvent être ajoutés à la ligne 1, colonne 1.
+2024-04-15 13:25:20 - INFO - Hint button clicked
+2024-04-15 13:25:20 - INFO - Indice : Les chiffres 6 8 9 peuvent être ajoutés à la ligne 9, colonne 1.
+2024-04-15 13:26:39 - INFO - This is an informational message.
+2024-04-15 13:26:39 - DEBUG - This is a debug message.
+2024-04-15 13:26:39 - CRITICAL - This is a critical message.
+2024-04-15 13:26:43 - INFO - Hint button clicked
+2024-04-15 13:26:43 - INFO - Indice : Les chiffres 1, 4 peuvent être ajoutés à la ligne 1, colonne 1.
+2024-04-15 13:28:30 - INFO - This is an informational message.
+2024-04-15 13:28:30 - DEBUG - This is a debug message.
+2024-04-15 13:28:30 - CRITICAL - This is a critical message.
+2024-04-15 13:28:37 - INFO - Hint button clicked
+2024-04-15 13:28:37 - INFO - Indice : Les chiffres 1 peuvent être ajoutés à la ligne 4, colonne 1.
+2024-04-15 13:29:25 - INFO - This is an informational message.
+2024-04-15 13:29:25 - DEBUG - This is a debug message.
+2024-04-15 13:29:25 - CRITICAL - This is a critical message.
+2024-04-15 13:29:34 - INFO - Hint button clicked
+2024-04-15 13:29:34 - INFO - Indice : Les chiffres 1, 4, 9 peuvent être ajoutés à la ligne 4, colonne 1.
+2024-04-15 13:29:50 - INFO - Hint button clicked
+2024-04-15 13:29:50 - INFO - Indice : Les chiffres 4, 8, 9 peuvent être ajoutés à la ligne 6, colonne 6.
+2024-04-15 13:30:43 - INFO - User clicked on 9
+2024-04-15 13:30:44 - INFO - User clicked on 8
+2024-04-15 13:30:45 - INFO - User clicked on 8
+2024-04-15 13:30:45 - INFO - User clicked on 7
+2024-04-15 13:30:46 - INFO - User clicked on 7
+2024-04-15 13:30:47 - INFO - User clicked on 7
+2024-04-15 13:30:58 - INFO - This is an informational message.
+2024-04-15 13:30:58 - DEBUG - This is a debug message.
+2024-04-15 13:30:58 - CRITICAL - This is a critical message.
+2024-04-15 13:31:28 - INFO - This is an informational message.
+2024-04-15 13:31:28 - DEBUG - This is a debug message.
+2024-04-15 13:31:28 - CRITICAL - This is a critical message.
+2024-04-15 13:31:32 - INFO - User clicked on 2
+2024-04-15 13:31:32 - INFO - User clicked on 1
+2024-04-15 13:31:32 - INFO - User clicked on 3
+2024-04-15 13:31:36 - INFO - User clicked on 1
+2024-04-15 13:31:41 - INFO - This is an informational message.
+2024-04-15 13:31:41 - DEBUG - This is a debug message.
+2024-04-15 13:31:41 - CRITICAL - This is a critical message.
+2024-04-15 13:31:45 - INFO - User clicked on 5
+2024-04-15 13:31:45 - INFO - User clicked on 6
+2024-04-15 13:31:46 - INFO - User clicked on 7
+2024-04-15 13:31:47 - INFO - User clicked on 9
+2024-04-15 13:32:06 - INFO - This is an informational message.
+2024-04-15 13:32:06 - DEBUG - This is a debug message.
+2024-04-15 13:32:06 - CRITICAL - This is a critical message.
+2024-04-15 13:32:10 - INFO - User clicked on 7
+2024-04-15 13:32:10 - INFO - User clicked on 7
+2024-04-15 13:32:11 - INFO - User clicked on 7
+2024-04-15 13:33:02 - INFO - This is an informational message.
+2024-04-15 13:33:02 - DEBUG - This is a debug message.
+2024-04-15 13:33:02 - CRITICAL - This is a critical message.
+2024-04-15 13:33:06 - INFO - User clicked on 2
+2024-04-15 13:33:06 - INFO - User clicked on 2
+2024-04-15 13:33:06 - INFO - User clicked on 4
+2024-04-15 13:33:10 - INFO - User clicked on 5
+2024-04-15 13:33:10 - INFO - User clicked on 6
+2024-04-15 13:33:10 - INFO - User clicked on 7
+2024-04-15 13:33:37 - INFO - This is an informational message.
+2024-04-15 13:33:37 - DEBUG - This is a debug message.
+2024-04-15 13:33:37 - CRITICAL - This is a critical message.
+2024-04-15 13:33:58 - INFO - User clicked on 1
+2024-04-15 13:34:01 - INFO - User clicked on 3
+2024-04-15 13:34:02 - INFO - User clicked on 2
+2024-04-15 13:34:03 - INFO - User clicked on 3
+2024-04-15 13:34:07 - INFO - User clicked on 3
+2024-04-15 13:34:07 - INFO - User clicked on 2
+2024-04-15 13:34:07 - INFO - User clicked on 2
+2024-04-15 13:34:07 - INFO - User clicked on 3
+2024-04-15 13:34:07 - INFO - User clicked on 3
+2024-04-15 13:34:07 - INFO - User clicked on 2
+2024-04-15 13:34:07 - INFO - User clicked on 3
+2024-04-15 13:34:12 - INFO - User clicked on 2
+2024-04-15 13:34:13 - INFO - User clicked on 3
+2024-04-15 13:34:13 - INFO - User clicked on 4
+2024-04-15 13:34:13 - INFO - User clicked on 5
+2024-04-15 13:34:13 - INFO - User clicked on 3
+2024-04-15 13:34:13 - INFO - User clicked on 4
+2024-04-15 13:34:14 - INFO - User clicked on 3
+2024-04-15 13:34:14 - INFO - User clicked on 4
+2024-04-15 13:34:14 - INFO - User clicked on 2
+2024-04-15 13:34:14 - INFO - User clicked on 2
+2024-04-15 13:34:15 - INFO - User clicked on 2
+2024-04-15 13:34:15 - INFO - User clicked on 2
+2024-04-15 13:34:15 - INFO - User clicked on 2
+2024-04-15 13:34:37 - INFO - Hint button clicked
+2024-04-15 13:34:37 - INFO - Indice : Les chiffres 4, 5 peuvent être ajoutés à la ligne 1, colonne 2.
+2024-04-15 13:34:38 - INFO - User clicked on 4
+2024-04-15 13:34:40 - INFO - User clicked on 2
+2024-04-15 13:34:40 - INFO - User clicked on 3
+2024-04-15 13:34:40 - INFO - User clicked on 4
+2024-04-15 13:34:40 - INFO - User clicked on 5
+2024-04-15 13:34:40 - INFO - User clicked on 6
+2024-04-15 13:34:40 - INFO - User clicked on 7
+2024-04-15 13:34:40 - INFO - User clicked on 8
+2024-04-15 13:34:40 - INFO - User clicked on 9
+2024-04-15 13:34:40 - INFO - User clicked on 9
+2024-04-15 13:34:41 - INFO - User clicked on 3
+2024-04-15 13:34:41 - INFO - User clicked on 4
+2024-04-15 13:34:41 - INFO - User clicked on 5
+2024-04-15 13:34:41 - INFO - User clicked on 6
+2024-04-15 13:34:41 - INFO - User clicked on 7
+2024-04-15 13:34:41 - INFO - User clicked on 8
+2024-04-15 13:34:42 - INFO - User clicked on 7
+2024-04-15 13:34:42 - INFO - User clicked on 6
+2024-04-15 13:34:42 - INFO - User clicked on 5
+2024-04-15 13:34:42 - INFO - User clicked on 4
+2024-04-15 13:34:42 - INFO - User clicked on 3
+2024-04-15 13:34:42 - INFO - User clicked on 4
+2024-04-15 13:34:42 - INFO - User clicked on 5
+2024-04-15 13:34:42 - INFO - User clicked on 6
+2024-04-15 13:34:42 - INFO - User clicked on 7
+2024-04-15 13:34:43 - INFO - User clicked on 8
+2024-04-15 13:34:43 - INFO - User clicked on 9
+2024-04-15 13:34:43 - INFO - User clicked on 0
+2024-04-15 13:34:43 - INFO - User clicked on 0
+2024-04-15 13:34:43 - INFO - User clicked on 9
+2024-04-15 13:34:43 - INFO - User clicked on 8
+2024-04-15 13:34:43 - INFO - User clicked on 7
+2024-04-15 13:34:43 - INFO - User clicked on 6
+2024-04-15 13:34:44 - INFO - User clicked on 3
+2024-04-15 13:34:44 - INFO - User clicked on 6
+2024-04-15 13:34:44 - INFO - User clicked on 7
+2024-04-15 13:34:45 - INFO - User clicked on 5
+2024-04-15 13:34:45 - INFO - User clicked on 4
+2024-04-15 13:34:45 - INFO - User clicked on 4
+2024-04-15 13:34:46 - INFO - User clicked on 4
+2024-04-15 13:34:46 - INFO - User clicked on 4
+2024-04-15 13:34:46 - INFO - User clicked on 6
+2024-04-15 13:34:46 - INFO - User clicked on 5
+2024-04-15 13:34:46 - INFO - User clicked on 5
+2024-04-15 13:34:47 - INFO - User clicked on 6
+2024-04-15 13:34:47 - INFO - User clicked on 5
+2024-04-15 13:34:47 - INFO - User clicked on 6
+2024-04-15 13:34:47 - INFO - User clicked on 5
+2024-04-15 13:34:47 - INFO - User clicked on 6
+2024-04-15 13:34:47 - INFO - User clicked on 5
+2024-04-15 13:34:47 - INFO - User clicked on 6
+2024-04-15 13:34:47 - INFO - User clicked on 5
+2024-04-15 13:34:47 - INFO - User clicked on 6
+2024-04-15 13:34:48 - INFO - User clicked on 5
+2024-04-15 13:34:48 - INFO - User clicked on 6
+2024-04-15 13:34:56 - INFO - User clicked on 2
+2024-04-15 13:34:56 - INFO - User clicked on 3
+2024-04-15 13:34:57 - INFO - User clicked on 3
+2024-04-15 13:35:01 - INFO - User clicked on 4
+2024-04-15 13:35:03 - INFO - User clicked on 5
+2024-04-15 13:35:03 - INFO - User clicked on 6
+2024-04-15 13:35:03 - INFO - User clicked on 3
+2024-04-15 13:35:03 - INFO - User clicked on 2
+2024-04-15 13:35:04 - INFO - User clicked on 7
+2024-04-15 13:35:04 - INFO - User clicked on 9
+2024-04-15 13:35:04 - INFO - User clicked on 6
+2024-04-15 13:35:04 - INFO - User clicked on 8
+2024-04-15 13:35:05 - INFO - User clicked on 8
+2024-04-15 13:35:05 - INFO - User clicked on 8
+2024-04-15 13:35:05 - INFO - User clicked on 7
+2024-04-15 13:35:07 - INFO - User clicked on 7
+2024-04-15 13:35:07 - INFO - User clicked on 4
+2024-04-15 13:35:07 - INFO - User clicked on 6
+2024-04-15 13:35:07 - INFO - User clicked on 7
+2024-04-15 13:35:07 - INFO - User clicked on 3
+2024-04-15 13:35:07 - INFO - User clicked on 7
+2024-04-15 13:38:52 - INFO - This is an informational message.
+2024-04-15 13:38:52 - DEBUG - This is a debug message.
+2024-04-15 13:38:52 - CRITICAL - This is a critical message.
+2024-04-15 13:38:56 - INFO - User clicked on 4
+2024-04-15 13:38:56 - INFO - User clicked on 5
+2024-04-15 13:38:56 - INFO - User clicked on 6
+2024-04-15 13:38:57 - INFO - User clicked on 7
+2024-04-15 13:39:02 - INFO - User clicked on 6
+2024-04-15 13:39:02 - INFO - User clicked on 4
+2024-04-15 13:39:02 - INFO - User clicked on 3
+2024-04-15 13:39:03 - INFO - User clicked on 4
+2024-04-15 13:39:03 - INFO - User clicked on 2
+2024-04-15 13:39:03 - INFO - User clicked on 3
+2024-04-15 13:39:03 - INFO - User clicked on 4
+2024-04-15 13:39:03 - INFO - User clicked on 2
+2024-04-15 13:39:03 - INFO - User clicked on 3
+2024-04-15 13:39:03 - INFO - User clicked on 4
+2024-04-15 13:39:32 - INFO - This is an informational message.
+2024-04-15 13:39:32 - DEBUG - This is a debug message.
+2024-04-15 13:39:32 - CRITICAL - This is a critical message.
+2024-04-15 13:39:36 - INFO - User clicked on 1
+2024-04-15 13:39:36 - INFO - User clicked on 2
+2024-04-15 13:39:36 - INFO - User clicked on 2
+2024-04-15 13:39:37 - INFO - User clicked on 3
+2024-04-15 13:39:37 - INFO - User clicked on 5
+2024-04-15 13:39:37 - INFO - User clicked on 6
+2024-04-15 13:39:37 - INFO - User clicked on 7
+2024-04-15 13:39:37 - INFO - User clicked on 8
+2024-04-15 13:39:45 - INFO - User clicked on 3
+2024-04-15 13:39:45 - INFO - User clicked on 2
+2024-04-15 13:39:45 - INFO - User clicked on 4
+2024-04-15 13:39:45 - INFO - User clicked on 2
+2024-04-15 13:39:45 - INFO - User clicked on 3
+2024-04-15 13:39:45 - INFO - User clicked on 4
+2024-04-15 13:39:45 - INFO - User clicked on 2
+2024-04-15 13:39:46 - INFO - User clicked on 3
+2024-04-15 13:39:46 - INFO - User clicked on 4
+2024-04-15 13:39:46 - INFO - User clicked on 2
+2024-04-15 13:39:46 - INFO - User clicked on 3
+2024-04-15 13:39:46 - INFO - User clicked on 4
+2024-04-15 13:39:46 - INFO - User clicked on 2
+2024-04-15 13:39:46 - INFO - User clicked on 3
+2024-04-15 13:39:47 - INFO - User clicked on 2
+2024-04-15 13:39:47 - INFO - User clicked on 4
+2024-04-15 13:39:47 - INFO - User clicked on 2
+2024-04-15 13:39:47 - INFO - User clicked on 3
+2024-04-15 13:39:47 - INFO - User clicked on 4
+2024-04-15 13:39:47 - INFO - User clicked on 2
+2024-04-15 13:39:47 - INFO - User clicked on 3
+2024-04-15 13:39:47 - INFO - User clicked on 4
+2024-04-15 13:39:47 - INFO - User clicked on 2
+2024-04-15 13:39:47 - INFO - User clicked on 3
+2024-04-15 13:39:47 - INFO - User clicked on 4
+2024-04-15 13:39:48 - INFO - User clicked on 2
+2024-04-15 13:39:48 - INFO - User clicked on 3
+2024-04-15 13:39:48 - INFO - User clicked on 4
+2024-04-15 13:39:48 - INFO - User clicked on 2
+2024-04-15 13:39:48 - INFO - User clicked on 3
+2024-04-15 13:39:48 - INFO - User clicked on 4
+2024-04-15 13:39:48 - INFO - User clicked on 2
+2024-04-15 13:39:48 - INFO - User clicked on 3
+2024-04-15 13:39:48 - INFO - User clicked on 3
+2024-04-15 13:39:48 - INFO - User clicked on 4
+2024-04-15 13:39:48 - INFO - User clicked on 2
+2024-04-15 13:39:48 - INFO - User clicked on 4
+2024-04-15 13:39:48 - INFO - User clicked on 2
+2024-04-15 13:39:48 - INFO - User clicked on 3
+2024-04-15 13:39:49 - INFO - User clicked on 4
+2024-04-15 13:39:50 - INFO - User clicked on 3
+2024-04-15 13:39:50 - INFO - User clicked on 3
+2024-04-15 13:39:51 - INFO - User clicked on 2
+2024-04-15 13:39:52 - INFO - User clicked on 2
+2024-04-15 13:39:52 - INFO - User clicked on 2
+2024-04-15 13:39:52 - INFO - User clicked on 3
+2024-04-15 13:39:57 - INFO - User clicked on 1
+2024-04-15 13:40:21 - INFO - This is an informational message.
+2024-04-15 13:40:21 - DEBUG - This is a debug message.
+2024-04-15 13:40:21 - CRITICAL - This is a critical message.
+2024-04-15 13:40:24 - INFO - User clicked on 1
+2024-04-15 13:40:24 - INFO - User clicked on 2
+2024-04-15 13:40:24 - INFO - User clicked on 3
+2024-04-15 13:45:02 - INFO - This is an informational message.
+2024-04-15 13:45:02 - DEBUG - This is a debug message.
+2024-04-15 13:45:02 - CRITICAL - This is a critical message.
+2024-04-15 13:47:27 - INFO - This is an informational message.
+2024-04-15 13:47:27 - DEBUG - This is a debug message.
+2024-04-15 13:47:27 - CRITICAL - This is a critical message.
+2024-04-15 13:47:30 - INFO - User clicked on 3
+2024-04-15 13:47:31 - INFO - User clicked on 3
+2024-04-15 13:47:31 - INFO - User clicked on 4
+2024-04-15 13:47:32 - INFO - User clicked on 5
+2024-04-15 13:47:33 - INFO - User clicked on 6
+2024-04-15 13:47:38 - INFO - User clicked on 3
+2024-04-15 13:47:39 - INFO - User clicked on 4
+2024-04-15 13:47:41 - INFO - User clicked on 5
+2024-04-15 13:47:49 - INFO - User clicked on 3
+2024-04-15 13:47:50 - INFO - User clicked on 4
+2024-04-15 13:47:52 - INFO - User clicked on 5
+2024-04-15 13:47:53 - INFO - User clicked on 6
+2024-04-15 13:47:54 - INFO - User clicked on 3
+2024-04-15 13:47:54 - INFO - User clicked on 2
+2024-04-15 13:47:55 - INFO - User clicked on 1
+2024-04-15 13:47:56 - INFO - User clicked on 3
+2024-04-15 13:47:56 - INFO - User clicked on 4
+2024-04-15 13:47:56 - INFO - User clicked on 5
+2024-04-15 13:47:57 - INFO - User clicked on 6
+2024-04-15 13:47:57 - INFO - User clicked on 6
+2024-04-15 13:48:08 - INFO - This is an informational message.
+2024-04-15 13:48:08 - DEBUG - This is a debug message.
+2024-04-15 13:48:08 - CRITICAL - This is a critical message.
+2024-04-15 13:48:11 - INFO - User clicked on 2
+2024-04-15 13:48:12 - INFO - User clicked on 3
+2024-04-15 13:48:13 - INFO - User clicked on 4
+2024-04-15 13:48:15 - INFO - User clicked on 5
+2024-04-15 13:48:17 - INFO - User clicked on 7
+2024-04-15 13:48:18 - INFO - User clicked on 8
+2024-04-15 13:48:41 - INFO - User clicked on 3
+2024-04-15 13:48:42 - INFO - User clicked on 4
+2024-04-15 13:48:43 - INFO - User clicked on 5
+2024-04-15 14:14:50 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 14:14:50 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 14:14:50 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 14:14:53 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 14:14:53 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 14:14:53 - CRITICAL - [0.01secondes]-This is a critical message.
