@@ -241,7 +241,10 @@ def afficher_message_fin(screen, message):
     text_surface = font.render(message, True, (255, 0, 0)) 
     text_rect = text_surface.get_rect(center=(Constants.SCREEN_WIDTH / 2, Constants.SCREEN_HEIGHT / 2))
     screen.blit(text_surface, text_rect)
-
+def draw_chances(screen,chances):
+    font=pygame.font.Font(None,27)
+    text=font.render(f"Attention il ne te reste que {chances}chance(s)",True,(2,8,0))
+    screen.blit(text,(5,5))
 def main():
     global sudoku, selected_tile,selected_difficulty
     splash_screen() #affiche la page initiale
@@ -251,6 +254,7 @@ def main():
     chances = 3
     clicked_tile =None
     Joue = True
+    draw_chances(screen,chances)
     
     while running:
         mouse_pos = pygame.mouse.get_pos()
@@ -272,6 +276,7 @@ def main():
                     chances = 3
                     Joue = True
                     draw_sudoku_screen()
+                    draw_chances(screen,chances)
                     # TODO
                 # TODO 4.3. Indices
                 elif hint_button_rect.collidepoint(event.pos) and Joue:
@@ -347,8 +352,10 @@ def main():
                 draw_selected_tile(screen, selected_tile)
                 pygame.display.flip()
                 pygame.display.update()
+
             if not running:
                 break
+            draw_chances(screen,chances)
 
         pygame.display.flip()
 
