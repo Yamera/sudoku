@@ -15,6 +15,37 @@ __name__ = "metrics"
 __author__ = "CDL & <votre nom>"
 __version__ = 1.0
 
+def extract_log_metric(log_file):
+    with open(log_file, "r") as fichier:
+        lines = fichier.readlines
+    timestamps = []
+    severities = []
+    for line in lines:
+        parts = line.split("-")
+        timestamps.append(parts[0])
+        severities.append(parts[2].split("")[1])
+    return timestamps, severities
+
+def extract_log_metric(log_file):
+    with open(log_file, "r") as fichier:
+        lines = fichier.readlines()
+    timestamps = []
+    severities = []
+    for line in lines:
+        parts = line.strip().split("-") 
+        if len(parts) >= 3:
+            timestamps.append(parts[0])
+            severities.append(parts[2].strip())  
+    return timestamps, severities
+
+def plot_method(timestamps, severities):
+    data = {
+        "timestamps" : timestamps,
+        "severity" : severities
+    }
+    df.DataFrame(data)
+    df["timestamp"] = pd.to_datetime(df["timestamp"])
+    df["count"] = 1
 
 # Exemples de données
 data = {
@@ -41,3 +72,8 @@ plt.ylabel("Cumulative Count")
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
+
+if _name_ := "_main_":
+    log_file = r"C:\Users\yasmin\OneDrive\Bureau\Cours INF1007\pr02-Yamera\rapport_journalisation_2024-04-15_21-00-07.log"
+    timestamps, severities = extract_log_metric(log_file)
+    plot_method(timestamps, severities)

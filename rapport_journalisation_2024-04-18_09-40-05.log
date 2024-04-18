@@ -1,0 +1,328 @@
+2024-04-18 09:40:05 - INFO - [0.01secondes]-This is an informational message.
+2024-04-18 09:40:05 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-18 09:40:05 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-18 09:40:14 - INFO - [9.18secondes]-La partie est commencé.
+2024-04-18 09:40:14 - INFO - [9.79secondes]-Case selectionnée: (9, 8)
+2024-04-18 09:40:14 - INFO - [9.80secondes]-Case selectionnée: (9, 8)
+2024-04-18 09:40:14 - INFO - [9.80secondes]-Case selectionnée: (9, 8)
+2024-04-18 09:40:15 - INFO - [10.40secondes]-Case selectionnée: (8, 7)
+2024-04-18 09:40:15 - INFO - [10.40secondes]-Case selectionnée: (8, 7)
+2024-04-18 09:40:15 - INFO - [10.41secondes]-Case selectionnée: (8, 7)
+2024-04-18 09:40:24 - INFO - [19.50secondes]-Case selectionnée: (7, 7)
+2024-04-18 09:40:24 - INFO - [19.50secondes]-Case selectionnée: (7, 7)
+2024-04-18 09:40:24 - INFO - [19.51secondes]-Case selectionnée: (7, 7)
+2024-04-18 09:40:25 - INFO - [20.02secondes]-Case selectionnée: (7, 8)
+2024-04-18 09:40:25 - INFO - [20.02secondes]-Case selectionnée: (7, 8)
+2024-04-18 09:40:25 - INFO - [20.03secondes]-Case selectionnée: (7, 8)
+2024-04-18 09:40:25 - INFO - [20.81secondes]-Case selectionnée: (7, 9)
+2024-04-18 09:40:25 - INFO - [20.81secondes]-Case selectionnée: (7, 9)
+2024-04-18 09:40:25 - INFO - [20.82secondes]-Case selectionnée: (7, 9)
+2024-04-18 09:40:27 - INFO - [21.90secondes]-Case selectionnée: (5, 7)
+2024-04-18 09:40:27 - INFO - [21.90secondes]-Case selectionnée: (5, 7)
+2024-04-18 09:40:27 - INFO - [21.90secondes]-Case selectionnée: (5, 7)
+2024-04-18 09:41:10 - INFO - [65.39secondes]-Case selectionnée: (1, 3)
+2024-04-18 09:41:10 - INFO - [65.39secondes]-Case selectionnée: (1, 3)
+2024-04-18 09:41:10 - INFO - [65.39secondes]-Case selectionnée: (1, 3)
+2024-04-18 09:41:11 - INFO - [66.01secondes]-L'utilisateur a cliqué sur 7
+2024-04-18 09:41:11 - INFO - [66.01secondes]-Placement du chiffre 7 réussi.
+2024-04-18 09:41:29 - INFO - [84.10secondes]-Case selectionnée: (3, 1)
+2024-04-18 09:41:29 - INFO - [84.10secondes]-Case selectionnée: (3, 1)
+2024-04-18 09:41:29 - INFO - [84.10secondes]-Case selectionnée: (3, 1)
+2024-04-18 09:41:47 - INFO - [102.46secondes]-Case selectionnée: (2, 3)
+2024-04-18 09:41:47 - INFO - [102.46secondes]-Case selectionnée: (2, 3)
+2024-04-18 09:41:47 - INFO - [102.46secondes]-Case selectionnée: (2, 3)
+2024-04-18 09:41:48 - INFO - [103.41secondes]-L'utilisateur a cliqué sur 8
+2024-04-18 09:41:48 - INFO - [103.41secondes]-Placement du chiffre 8 réussi.
+2024-04-18 09:42:07 - INFO - [122.46secondes]-Case selectionnée: (4, 3)
+2024-04-18 09:42:07 - INFO - [122.46secondes]-Case selectionnée: (4, 3)
+2024-04-18 09:42:07 - INFO - [122.46secondes]-Case selectionnée: (4, 3)
+2024-04-18 09:42:08 - INFO - [123.66secondes]-L'utilisateur a cliqué sur 1
+2024-04-18 09:42:08 - INFO - [123.66secondes]-Placement du chiffre 1 réussi.
+2024-04-18 09:42:11 - INFO - [126.67secondes]-Case selectionnée: (6, 1)
+2024-04-18 09:42:11 - INFO - [126.67secondes]-Case selectionnée: (6, 1)
+2024-04-18 09:42:11 - INFO - [126.67secondes]-Case selectionnée: (6, 1)
+2024-04-18 09:42:15 - INFO - [130.86secondes]-L'utilisateur a cliqué sur 6
+2024-04-18 09:42:15 - INFO - [130.86secondes]-Placement du chiffre 6 réussi.
+2024-04-18 09:42:26 - INFO - [141.70secondes]-Case selectionnée: (5, 2)
+2024-04-18 09:42:26 - INFO - [141.70secondes]-Case selectionnée: (5, 2)
+2024-04-18 09:42:26 - INFO - [141.70secondes]-Case selectionnée: (5, 2)
+2024-04-18 09:42:27 - INFO - [142.41secondes]-L'utilisateur a cliqué sur 8
+2024-04-18 09:42:27 - INFO - [142.41secondes]-Placement du chiffre 8 réussi.
+2024-04-18 09:42:28 - INFO - [143.50secondes]-Case selectionnée: (5, 3)
+2024-04-18 09:42:28 - INFO - [143.50secondes]-Case selectionnée: (5, 3)
+2024-04-18 09:42:28 - INFO - [143.50secondes]-Case selectionnée: (5, 3)
+2024-04-18 09:42:29 - INFO - [144.40secondes]-L'utilisateur a cliqué sur 2
+2024-04-18 09:42:29 - INFO - [144.40secondes]-Placement du chiffre 2 réussi.
+2024-04-18 09:42:37 - INFO - [152.79secondes]-Case selectionnée: (9, 2)
+2024-04-18 09:42:37 - INFO - [152.79secondes]-Case selectionnée: (9, 2)
+2024-04-18 09:42:37 - INFO - [152.79secondes]-Case selectionnée: (9, 2)
+2024-04-18 09:42:39 - INFO - [154.60secondes]-L'utilisateur a cliqué sur 3
+2024-04-18 09:42:39 - INFO - [154.60secondes]-Placement du chiffre 3 réussi.
+2024-04-18 09:42:41 - INFO - [156.33secondes]-Case selectionnée: (8, 3)
+2024-04-18 09:42:41 - INFO - [156.33secondes]-Case selectionnée: (8, 3)
+2024-04-18 09:42:41 - INFO - [156.34secondes]-Case selectionnée: (8, 3)
+2024-04-18 09:42:43 - INFO - [158.34secondes]-L'utilisateur a cliqué sur 5
+2024-04-18 09:42:43 - INFO - [158.34secondes]-Placement du chiffre 5 réussi.
+2024-04-18 09:42:52 - INFO - [167.56secondes]-Case selectionnée: (8, 7)
+2024-04-18 09:42:52 - INFO - [167.56secondes]-Case selectionnée: (8, 7)
+2024-04-18 09:42:52 - INFO - [167.56secondes]-Case selectionnée: (8, 7)
+2024-04-18 09:42:54 - INFO - [169.40secondes]-L'utilisateur a cliqué sur 7
+2024-04-18 09:42:54 - INFO - [169.40secondes]-Placement du chiffre 7 réussi.
+2024-04-18 09:42:59 - INFO - [174.56secondes]-Case selectionnée: (9, 7)
+2024-04-18 09:42:59 - INFO - [174.56secondes]-Case selectionnée: (9, 7)
+2024-04-18 09:42:59 - INFO - [174.56secondes]-Case selectionnée: (9, 7)
+2024-04-18 09:43:00 - INFO - [175.22secondes]-L'utilisateur a cliqué sur 8
+2024-04-18 09:43:00 - INFO - [175.22secondes]-Placement du chiffre 8 réussi.
+2024-04-18 09:43:10 - INFO - [184.93secondes]-Case selectionnée: (9, 7)
+2024-04-18 09:43:10 - INFO - [184.93secondes]-Case selectionnée: (9, 7)
+2024-04-18 09:43:10 - INFO - [184.93secondes]-Case selectionnée: (9, 7)
+2024-04-18 09:43:10 - INFO - [185.83secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:10 - INFO - [185.83secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:10 - INFO - [185.83secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:13 - INFO - [187.96secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:13 - INFO - [187.96secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:13 - INFO - [187.96secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:13 - INFO - [188.62secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:13 - INFO - [188.62secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:13 - INFO - [188.62secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:14 - INFO - [189.47secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:14 - INFO - [189.47secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:14 - INFO - [189.47secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:15 - INFO - [190.46secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:15 - INFO - [190.46secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:15 - INFO - [190.46secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:17 - INFO - [192.47secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:17 - INFO - [192.47secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:17 - INFO - [192.47secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:24 - INFO - [199.86secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:24 - INFO - [199.86secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:24 - INFO - [199.86secondes]-Case selectionnée: (9, 9)
+2024-04-18 09:43:25 - INFO - [200.65secondes]-L'utilisateur a cliqué sur 2
+2024-04-18 09:43:25 - INFO - [200.65secondes]-Placement du chiffre 2 réussi.
+2024-04-18 09:43:42 - INFO - [216.94secondes]-Case selectionnée: (7, 8)
+2024-04-18 09:43:42 - INFO - [216.94secondes]-Case selectionnée: (7, 8)
+2024-04-18 09:43:42 - INFO - [216.94secondes]-Case selectionnée: (7, 8)
+2024-04-18 09:43:49 - INFO - [224.08secondes]-L'utilisateur a cliqué sur 5
+2024-04-18 09:43:49 - INFO - [224.08secondes]-Placement du chiffre 5 réussi.
+2024-04-18 09:44:11 - INFO - [246.43secondes]-Case selectionnée: (7, 6)
+2024-04-18 09:44:11 - INFO - [246.43secondes]-Case selectionnée: (7, 6)
+2024-04-18 09:44:11 - INFO - [246.43secondes]-Case selectionnée: (7, 6)
+2024-04-18 09:44:12 - INFO - [247.50secondes]-L'utilisateur a cliqué sur 3
+2024-04-18 09:44:12 - INFO - [247.50secondes]-Placement du chiffre 3 réussi.
+2024-04-18 09:44:18 - INFO - [253.86secondes]-Case selectionnée: (9, 6)
+2024-04-18 09:44:18 - INFO - [253.86secondes]-Case selectionnée: (9, 6)
+2024-04-18 09:44:18 - INFO - [253.86secondes]-Case selectionnée: (9, 6)
+2024-04-18 09:44:19 - INFO - [254.58secondes]-L'utilisateur a cliqué sur 5
+2024-04-18 09:44:19 - INFO - [254.58secondes]-Placement du chiffre 5 réussi.
+2024-04-18 09:44:28 - INFO - [263.48secondes]-Case selectionnée: (8, 6)
+2024-04-18 09:44:28 - INFO - [263.48secondes]-Case selectionnée: (8, 6)
+2024-04-18 09:44:28 - INFO - [263.49secondes]-Case selectionnée: (8, 6)
+2024-04-18 09:44:29 - INFO - [264.88secondes]-L'utilisateur a cliqué sur 6
+2024-04-18 09:44:29 - INFO - [264.88secondes]-Placement du chiffre 6 réussi.
+2024-04-18 09:44:31 - INFO - [266.35secondes]-Case selectionnée: (8, 4)
+2024-04-18 09:44:31 - INFO - [266.35secondes]-Case selectionnée: (8, 4)
+2024-04-18 09:44:31 - INFO - [266.36secondes]-Case selectionnée: (8, 4)
+2024-04-18 09:44:32 - INFO - [267.08secondes]-L'utilisateur a cliqué sur 9
+2024-04-18 09:44:32 - INFO - [267.08secondes]-Placement du chiffre 9 réussi.
+2024-04-18 09:44:37 - INFO - [272.42secondes]-Case selectionnée: (6, 5)
+2024-04-18 09:44:37 - INFO - [272.42secondes]-Case selectionnée: (6, 5)
+2024-04-18 09:44:37 - INFO - [272.42secondes]-Case selectionnée: (6, 5)
+2024-04-18 09:44:41 - INFO - [276.08secondes]-L'utilisateur a cliqué sur 7
+2024-04-18 09:44:41 - INFO - [276.08secondes]-Placement du chiffre 7 réussi.
+2024-04-18 09:44:58 - INFO - [293.54secondes]-Case selectionnée: (6, 4)
+2024-04-18 09:44:58 - INFO - [293.54secondes]-Case selectionnée: (6, 4)
+2024-04-18 09:44:58 - INFO - [293.54secondes]-Case selectionnée: (6, 4)
+2024-04-18 09:44:59 - INFO - [294.27secondes]-L'utilisateur a cliqué sur 5
+2024-04-18 09:44:59 - INFO - [294.27secondes]-Placement du chiffre 5 réussi.
+2024-04-18 09:45:23 - INFO - [318.27secondes]-Case selectionnée: (5, 5)
+2024-04-18 09:45:23 - INFO - [318.27secondes]-Case selectionnée: (5, 5)
+2024-04-18 09:45:23 - INFO - [318.27secondes]-Case selectionnée: (5, 5)
+2024-04-18 09:45:24 - INFO - [319.10secondes]-L'utilisateur a cliqué sur 9
+2024-04-18 09:45:24 - INFO - [319.10secondes]-Placement du chiffre 9 réussi.
+2024-04-18 09:46:02 - INFO - [357.19secondes]-Case selectionnée: (1, 7)
+2024-04-18 09:46:02 - INFO - [357.19secondes]-Case selectionnée: (1, 7)
+2024-04-18 09:46:02 - INFO - [357.19secondes]-Case selectionnée: (1, 7)
+2024-04-18 09:46:04 - INFO - [359.49secondes]-L'utilisateur a cliqué sur 5
+2024-04-18 09:46:04 - INFO - [359.49secondes]-Placement du chiffre 5 réussi.
+2024-04-18 09:46:23 - INFO - [378.33secondes]-Case selectionnée: (2, 8)
+2024-04-18 09:46:23 - INFO - [378.33secondes]-Case selectionnée: (2, 8)
+2024-04-18 09:46:23 - INFO - [378.33secondes]-Case selectionnée: (2, 8)
+2024-04-18 09:46:24 - INFO - [379.54secondes]-L'utilisateur a cliqué sur 4
+2024-04-18 09:46:24 - INFO - [379.54secondes]-Placement du chiffre 4 réussi.
+2024-04-18 09:47:06 - INFO - [421.24secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:47:06 - INFO - [421.24secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:47:06 - INFO - [421.24secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:47:07 - INFO - [422.30secondes]-L'utilisateur a demandé un indice.
+2024-04-18 09:47:07 - INFO - [422.30secondes]-Indice : Le(s) chiffre(s) 2, 3, 6 peuvent être ajoutés à la ligne 4, colonne 4.
+2024-04-18 09:47:12 - INFO - [427.87secondes]-Case selectionnée: (3, 1)
+2024-04-18 09:47:12 - INFO - [427.87secondes]-Case selectionnée: (3, 1)
+2024-04-18 09:47:12 - INFO - [427.87secondes]-Case selectionnée: (3, 1)
+2024-04-18 09:47:14 - INFO - [428.94secondes]-L'utilisateur a demandé un indice.
+2024-04-18 09:47:14 - INFO - [428.94secondes]-Indice : Le(s) chiffre(s) 1, 3 peuvent être ajoutés à la ligne 1, colonne 3.
+2024-04-18 09:47:19 - INFO - [434.38secondes]-Case selectionnée: (3, 1)
+2024-04-18 09:47:19 - INFO - [434.38secondes]-Case selectionnée: (3, 1)
+2024-04-18 09:47:19 - INFO - [434.38secondes]-Case selectionnée: (3, 1)
+2024-04-18 09:47:51 - INFO - [465.98secondes]-Case selectionnée: (5, 7)
+2024-04-18 09:47:51 - INFO - [465.98secondes]-Case selectionnée: (5, 7)
+2024-04-18 09:47:51 - INFO - [465.98secondes]-Case selectionnée: (5, 7)
+2024-04-18 09:47:52 - INFO - [467.03secondes]-L'utilisateur a cliqué sur 4
+2024-04-18 09:47:52 - INFO - [467.03secondes]-Placement du chiffre 4 réussi.
+2024-04-18 09:48:01 - INFO - [476.38secondes]-Case selectionnée: (5, 4)
+2024-04-18 09:48:01 - INFO - [476.38secondes]-Case selectionnée: (5, 4)
+2024-04-18 09:48:01 - INFO - [476.38secondes]-Case selectionnée: (5, 4)
+2024-04-18 09:48:02 - INFO - [477.49secondes]-L'utilisateur a cliqué sur 6
+2024-04-18 09:48:02 - INFO - [477.49secondes]-Placement du chiffre 6 réussi.
+2024-04-18 09:48:29 - INFO - [504.57secondes]-Case selectionnée: (4, 7)
+2024-04-18 09:48:29 - INFO - [504.57secondes]-Case selectionnée: (4, 7)
+2024-04-18 09:48:29 - INFO - [504.57secondes]-Case selectionnée: (4, 7)
+2024-04-18 09:48:30 - INFO - [505.62secondes]-L'utilisateur a cliqué sur 6
+2024-04-18 09:48:30 - INFO - [505.62secondes]-Placement du chiffre 6 réussi.
+2024-04-18 09:48:35 - INFO - [509.98secondes]-Case selectionnée: (6, 7)
+2024-04-18 09:48:35 - INFO - [509.99secondes]-Case selectionnée: (6, 7)
+2024-04-18 09:48:35 - INFO - [509.99secondes]-Case selectionnée: (6, 7)
+2024-04-18 09:48:36 - INFO - [510.99secondes]-L'utilisateur a cliqué sur 2
+2024-04-18 09:48:36 - INFO - [510.99secondes]-Placement du chiffre 2 réussi.
+2024-04-18 09:48:37 - INFO - [512.38secondes]-Case selectionnée: (6, 9)
+2024-04-18 09:48:37 - INFO - [512.38secondes]-Case selectionnée: (6, 9)
+2024-04-18 09:48:37 - INFO - [512.38secondes]-Case selectionnée: (6, 9)
+2024-04-18 09:48:38 - INFO - [513.02secondes]-L'utilisateur a cliqué sur 1
+2024-04-18 09:48:38 - INFO - [513.02secondes]-Placement du chiffre 1 réussi.
+2024-04-18 09:48:53 - INFO - [528.58secondes]-Case selectionnée: (7, 9)
+2024-04-18 09:48:53 - INFO - [528.58secondes]-Case selectionnée: (7, 9)
+2024-04-18 09:48:53 - INFO - [528.58secondes]-Case selectionnée: (7, 9)
+2024-04-18 09:48:55 - INFO - [529.96secondes]-L'utilisateur a cliqué sur 6
+2024-04-18 09:48:55 - INFO - [529.96secondes]-Placement du chiffre 6 réussi.
+2024-04-18 09:48:56 - INFO - [531.17secondes]-Case selectionnée: (7, 7)
+2024-04-18 09:48:56 - INFO - [531.17secondes]-Case selectionnée: (7, 7)
+2024-04-18 09:48:56 - INFO - [531.18secondes]-Case selectionnée: (7, 7)
+2024-04-18 09:48:57 - INFO - [531.89secondes]-L'utilisateur a cliqué sur 9
+2024-04-18 09:48:57 - INFO - [531.89secondes]-Placement du chiffre 9 réussi.
+2024-04-18 09:48:59 - INFO - [534.88secondes]-Case selectionnée: (1, 9)
+2024-04-18 09:48:59 - INFO - [534.88secondes]-Case selectionnée: (1, 9)
+2024-04-18 09:48:59 - INFO - [534.88secondes]-Case selectionnée: (1, 9)
+2024-04-18 09:49:00 - INFO - [535.37secondes]-L'utilisateur a cliqué sur 9
+2024-04-18 09:49:00 - INFO - [535.37secondes]-Placement du chiffre 9 réussi.
+2024-04-18 09:49:27 - INFO - [562.55secondes]-Case selectionnée: (3, 4)
+2024-04-18 09:49:27 - INFO - [562.55secondes]-Case selectionnée: (3, 4)
+2024-04-18 09:49:27 - INFO - [562.55secondes]-Case selectionnée: (3, 4)
+2024-04-18 09:49:28 - INFO - [563.58secondes]-L'utilisateur a cliqué sur 4
+2024-04-18 09:49:28 - INFO - [563.58secondes]-Placement du chiffre 4 réussi.
+2024-04-18 09:50:59 - INFO - [654.88secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:50:59 - INFO - [654.88secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:50:59 - INFO - [654.88secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:51:02 - INFO - [656.91secondes]-L'utilisateur a demandé un indice.
+2024-04-18 09:51:02 - INFO - [656.91secondes]-Indice : Le(s) chiffre(s) 2, 8 peuvent être ajoutés à la ligne 6, colonne 4.
+2024-04-18 09:51:04 - INFO - [659.17secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:04 - INFO - [659.17secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:04 - INFO - [659.17secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:05 - INFO - [660.03secondes]-L'utilisateur a demandé un indice.
+2024-04-18 09:51:05 - INFO - [660.03secondes]-Indice : Le(s) chiffre(s) 2, 3 peuvent être ajoutés à la ligne 4, colonne 4.
+2024-04-18 09:51:06 - INFO - [661.59secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:51:06 - INFO - [661.59secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:51:06 - INFO - [661.59secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:51:07 - INFO - [662.48secondes]-L'utilisateur a demandé un indice.
+2024-04-18 09:51:07 - INFO - [662.49secondes]-Indice : Le(s) chiffre(s) 3, 8 peuvent être ajoutés à la ligne 5, colonne 4.
+2024-04-18 09:51:14 - INFO - [669.57secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:14 - INFO - [669.57secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:14 - INFO - [669.57secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:15 - INFO - [670.59secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:51:15 - INFO - [670.59secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:51:15 - INFO - [670.59secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:51:16 - INFO - [671.34secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:51:16 - INFO - [671.34secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:51:16 - INFO - [671.34secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:51:17 - INFO - [672.79secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:51:17 - INFO - [672.79secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:51:17 - INFO - [672.79secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:51:18 - INFO - [673.87secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:18 - INFO - [673.87secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:18 - INFO - [673.87secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:19 - INFO - [674.51secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:51:19 - INFO - [674.51secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:51:19 - INFO - [674.51secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:51:23 - INFO - [678.04secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:51:23 - INFO - [678.04secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:51:23 - INFO - [678.04secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:51:24 - INFO - [679.13secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:24 - INFO - [679.13secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:24 - INFO - [679.13secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:25 - INFO - [680.05secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:51:25 - INFO - [680.05secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:51:25 - INFO - [680.05secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:51:30 - INFO - [685.41secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:30 - INFO - [685.41secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:51:30 - INFO - [685.41secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:52:18 - INFO - [733.87secondes]-Case selectionnée: (3, 7)
+2024-04-18 09:52:18 - INFO - [733.87secondes]-Case selectionnée: (3, 7)
+2024-04-18 09:52:18 - INFO - [733.87secondes]-Case selectionnée: (3, 7)
+2024-04-18 09:55:18 - INFO - [913.14secondes]-Case selectionnée: (3, 7)
+2024-04-18 09:55:18 - INFO - [913.14secondes]-Case selectionnée: (3, 7)
+2024-04-18 09:55:18 - INFO - [913.14secondes]-Case selectionnée: (3, 7)
+2024-04-18 09:55:44 - INFO - [939.81secondes]-Case selectionnée: (1, 1)
+2024-04-18 09:55:44 - INFO - [939.81secondes]-Case selectionnée: (1, 1)
+2024-04-18 09:55:44 - INFO - [939.81secondes]-Case selectionnée: (1, 1)
+2024-04-18 09:55:45 - INFO - [940.59secondes]-L'utilisateur a cliqué sur 3
+2024-04-18 09:55:45 - INFO - [940.59secondes]-Placement du chiffre 3 réussi.
+2024-04-18 09:55:46 - INFO - [941.73secondes]-Case selectionnée: (3, 1)
+2024-04-18 09:55:46 - INFO - [941.73secondes]-Case selectionnée: (3, 1)
+2024-04-18 09:55:46 - INFO - [941.73secondes]-Case selectionnée: (3, 1)
+2024-04-18 09:55:46 - INFO - [941.89secondes]-L'utilisateur a cliqué sur 1
+2024-04-18 09:55:46 - INFO - [941.89secondes]-Placement du chiffre 1 réussi.
+2024-04-18 09:55:48 - INFO - [942.94secondes]-Case selectionnée: (3, 7)
+2024-04-18 09:55:48 - INFO - [942.94secondes]-Case selectionnée: (3, 7)
+2024-04-18 09:55:48 - INFO - [942.94secondes]-Case selectionnée: (3, 7)
+2024-04-18 09:55:48 - INFO - [943.56secondes]-L'utilisateur a cliqué sur 3
+2024-04-18 09:55:48 - INFO - [943.56secondes]-Placement du chiffre 3 réussi.
+2024-04-18 09:55:49 - INFO - [944.15secondes]-Case selectionnée: (2, 7)
+2024-04-18 09:55:49 - INFO - [944.15secondes]-Case selectionnée: (2, 7)
+2024-04-18 09:55:49 - INFO - [944.15secondes]-Case selectionnée: (2, 7)
+2024-04-18 09:55:49 - INFO - [944.57secondes]-L'utilisateur a cliqué sur 1
+2024-04-18 09:55:49 - INFO - [944.57secondes]-Placement du chiffre 1 réussi.
+2024-04-18 09:55:50 - INFO - [945.45secondes]-Case selectionnée: (1, 4)
+2024-04-18 09:55:50 - INFO - [945.45secondes]-Case selectionnée: (1, 4)
+2024-04-18 09:55:50 - INFO - [945.45secondes]-Case selectionnée: (1, 4)
+2024-04-18 09:55:51 - INFO - [945.95secondes]-L'utilisateur a cliqué sur 1
+2024-04-18 09:55:51 - INFO - [945.95secondes]-Placement du chiffre 1 réussi.
+2024-04-18 09:55:51 - INFO - [946.34secondes]-Case selectionnée: (1, 5)
+2024-04-18 09:55:51 - INFO - [946.35secondes]-Case selectionnée: (1, 5)
+2024-04-18 09:55:51 - INFO - [946.35secondes]-Case selectionnée: (1, 5)
+2024-04-18 09:55:52 - INFO - [947.33secondes]-L'utilisateur a cliqué sur 8
+2024-04-18 09:55:52 - INFO - [947.33secondes]-Placement du chiffre 8 réussi.
+2024-04-18 09:55:53 - INFO - [947.93secondes]-Case selectionnée: (1, 6)
+2024-04-18 09:55:53 - INFO - [947.93secondes]-Case selectionnée: (1, 6)
+2024-04-18 09:55:53 - INFO - [947.93secondes]-Case selectionnée: (1, 6)
+2024-04-18 09:55:53 - INFO - [948.56secondes]-L'utilisateur a cliqué sur 2
+2024-04-18 09:55:53 - INFO - [948.56secondes]-Placement du chiffre 2 réussi.
+2024-04-18 09:55:54 - INFO - [949.65secondes]-Case selectionnée: (2, 4)
+2024-04-18 09:55:54 - INFO - [949.65secondes]-Case selectionnée: (2, 4)
+2024-04-18 09:55:54 - INFO - [949.65secondes]-Case selectionnée: (2, 4)
+2024-04-18 09:55:55 - INFO - [950.03secondes]-L'utilisateur a cliqué sur 3
+2024-04-18 09:55:55 - INFO - [950.03secondes]-Placement du chiffre 3 réussi.
+2024-04-18 09:55:56 - INFO - [951.81secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:55:56 - INFO - [951.81secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:55:56 - INFO - [951.81secondes]-Case selectionnée: (4, 4)
+2024-04-18 09:55:57 - INFO - [952.21secondes]-L'utilisateur a cliqué sur 2
+2024-04-18 09:55:57 - INFO - [952.21secondes]-Placement du chiffre 2 réussi.
+2024-04-18 09:55:58 - INFO - [952.93secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:55:58 - INFO - [952.93secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:55:58 - INFO - [952.94secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:55:58 - INFO - [953.65secondes]-L'utilisateur a cliqué sur 3
+2024-04-18 09:55:58 - INFO - [953.65secondes]-Placement du chiffre 3 réussi.
+2024-04-18 09:55:59 - INFO - [954.57secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:55:59 - INFO - [954.58secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:55:59 - INFO - [954.58secondes]-Case selectionnée: (4, 6)
+2024-04-18 09:56:00 - INFO - [955.67secondes]-L'utilisateur a cliqué sur 8
+2024-04-18 09:56:00 - INFO - [955.67secondes]-Placement du chiffre 8 réussi.
+2024-04-18 09:56:00 - INFO - [955.67secondes]-La grille a été completé
+2024-04-18 09:56:00 - INFO - [955.67secondes]-L'utilisateur a gagné !
+2024-04-18 09:56:40 - INFO - [994.96secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-18 09:56:41 - INFO - [996.17secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:56:41 - INFO - [996.17secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:56:41 - INFO - [996.17secondes]-Case selectionnée: (4, 5)
+2024-04-18 09:56:41 - INFO - [996.72secondes]-L'utilisateur a cliqué sur 2
+2024-04-18 09:56:41 - CRITICAL - [996.72secondes]-Mauvaise entrée. Chances restantes: 3
+2024-04-18 09:56:42 - INFO - [997.39secondes]-L'utilisateur a cliqué sur 3
+2024-04-18 09:56:42 - CRITICAL - [997.39secondes]-Mauvaise entrée. Chances restantes: 3
+2024-04-18 09:56:43 - INFO - [998.28secondes]-L'utilisateur a cliqué sur 4
+2024-04-18 09:56:43 - CRITICAL - [998.28secondes]-Mauvaise entrée. Chances restantes: 3
+2024-04-18 09:56:43 - CRITICAL - [998.28secondes]-Les chances sont épuisées

@@ -31,11 +31,11 @@ class SingletonType(type):
 
 class Logger(metaclass=SingletonType):
     def __init__(self):
+        self.set_new_filename()
         self.log_format = "%(asctime)s - %(levelname)s - %(message)s"
         self.date_format = "%Y-%m-%d %H:%M:%S"
         logging.basicConfig(level=logging.DEBUG,
                             format=self.log_format, datefmt=self.date_format)
-        self.log_file = "XXX.log" #changer pour nimporte quoi
         self.file_handler = RotatingFileHandler(
             self.log_file, maxBytes=5*1024*1024, backupCount=2)
         self.file_handler.setLevel(logging.DEBUG)
@@ -46,7 +46,8 @@ class Logger(metaclass=SingletonType):
         self.start_time=time.time()
 
         # TODO: Ajoutez d'autres attributs de classe si nécessaire
-
+    def set_new_filename(self):
+        self.log_file=f"rapport_journalisation_{time.strftime('%Y-%m-%d_%H-%M-%S',time.localtime())}.log"
     def log(self, message, level):
         # TODO: À refactoriser à l'aide de votre interface 'Difficulty'
         timo=time.time()-self.start_time
@@ -57,8 +58,8 @@ class Logger(metaclass=SingletonType):
             self.logger.debug(f"[{timo:.2f}secondes]-{message}")
         elif level == 'critical':
             self.logger.critical(f"[{timo:.2f}secondes]-{message}")
-
         # TODO: Ajoutez d'autres méthodes de classe si nécessaire
+        # pas dur que ca soit utile ca
     def info(self, message):
         self.logger.info(message)
 
@@ -68,12 +69,6 @@ class Logger(metaclass=SingletonType):
     def critical(self, message):
         self.logger.critical(message)
         
-    def warning(self, message):
-        self.logger.warning(message)
-
-    def error(self, message):
-        self.logger.error(message)
-
 # Exemple d'utilisation
 logger1 = Logger()
 logger2 = Logger()

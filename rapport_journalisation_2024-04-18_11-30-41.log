@@ -1,0 +1,13 @@
+2024-04-18 11:30:41 - INFO - [0.00secondes]-This is an informational message.
+2024-04-18 11:30:41 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-18 11:30:41 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-18 11:30:42 - INFO - [1.34secondes]-La partie est commencé.
+2024-04-18 11:30:43 - INFO - [2.07secondes]-L'utilisateur a selectionne (7, 9)
+2024-04-18 11:30:45 - DEBUG - [3.88secondes]- Clic en dehors des zones interactives.
+2024-04-18 11:30:47 - INFO - [6.67secondes]-L'utilisateur a selectionne (5, 8)
+2024-04-18 11:30:48 - INFO - [7.18secondes]-L'utilisateur a demandé un indice.
+2024-04-18 11:30:48 - INFO - [7.18secondes]-Indice : Le(s) chiffre(s) 6, 7 peuvent être ajoutés à la ligne 8, colonne 5.
+2024-04-18 11:30:50 - INFO - [9.08secondes]-L'utilisateur a selectionne (7, 9)
+2024-04-18 11:30:51 - INFO - [10.38secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-18 11:30:53 - INFO - [12.19secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-18 11:30:54 - INFO - [12.72secondes]-L'utilisateur a démarré une nouvelle partie.

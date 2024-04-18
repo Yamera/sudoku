@@ -1,0 +1,8 @@
+2024-04-18 11:07:41 - INFO - [0.00secondes]-This is an informational message.
+2024-04-18 11:07:41 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-18 11:07:41 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-18 11:07:43 - INFO - [1.62secondes]-La partie est commencé.
+2024-04-18 11:07:43 - DEBUG - [2.26secondes]-Clic en dehors des zones interactives.
+2024-04-18 11:07:45 - DEBUG - [4.16secondes]-Clic en dehors des zones interactives.
+2024-04-18 11:07:46 - DEBUG - [5.20secondes]-Clic en dehors des zones interactives.
+2024-04-18 11:07:47 - DEBUG - [5.77secondes]-Clic en dehors des zones interactives.

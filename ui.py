@@ -23,10 +23,8 @@ selected_difficulty= Difficulty.EASY
 logger = Logger()
 MARGINS=50
 TILE_SIZE=50
-NUMBER_MARGIN=20 #Permet de centrer les nombres dans la grille
+NUMBER_MARGIN=20 
 
-
-#REMPLACER LES PRINT PAR DES LOG 
 def draw_button(screen, image_path, position, title, max_size=(100, 100), font_size=24):
     button = pygame.image.load(image_path)
     original_size = button.get_size()
@@ -81,7 +79,7 @@ def splash_screen():
     font_color = (255, 255, 255)
     text_animation_counter = 0
     increase = True
-#Decommenter pour eviter davoir toujours la musique pendant les tests.
+
     pygame.mixer.music.load(Constants.MUSIC_PATH)
     pygame.mixer.music.set_volume(Constants.DEFAULT_VOLUME)
     pygame.mixer.music.play(-1)
@@ -211,12 +209,10 @@ def draw_numbers(screen):
     for i in range(9):
         for j in range(9):
             value = sudoku._board[i][j]
-    #On veut que si on ne rentre rien ca affiche une case vide
             if value != 0:
                 x_pos= i * TILE_SIZE + MARGINS + NUMBER_MARGIN #va permettre daller dans la case que l'on veut
                 y_pos= j * TILE_SIZE + MARGINS + NUMBER_MARGIN
-                draw_value(screen, value, (x_pos, y_pos)) #fonction deja donnee en haut
-
+                draw_value(screen, value, (x_pos, y_pos)) 
 def draw_selected_tile(screen, selected_tile):
     if selected_tile != None:
         x, y = selected_tile
@@ -230,8 +226,8 @@ def get_clicked_tile(x, y):
     sudoku_start = MARGINS
     sudoku_end = MARGINS + 9 * TILE_SIZE
     if sudoku_start <= x <= sudoku_end and sudoku_start <= y <= sudoku_end: #Permet de sassurer quon est dans la postion de la grille par rapport aux marges
-        row= (x - MARGINS)// TILE_SIZE
-        col= (y - MARGINS) // TILE_SIZE
+        row = (x - MARGINS)// TILE_SIZE
+        col = (y - MARGINS) // TILE_SIZE
         return (row,col)
     else:
         return None
@@ -241,20 +237,39 @@ def afficher_message_fin(screen, message):
     text_surface = font.render(message, True, (255, 0, 0)) 
     text_rect = text_surface.get_rect(center=(Constants.SCREEN_WIDTH / 2, Constants.SCREEN_HEIGHT / 2))
     screen.blit(text_surface, text_rect)
+
 def draw_chances(screen,chances):
     font=pygame.font.Font(None,27)
-    text=font.render(f"Attention il ne te reste que {chances}chance(s)",True,(2,8,0))
+    text=font.render(f"Attention, il ne te reste que {chances} chance(s)",True,(2,8,0))
     screen.blit(text,(5,5))
+
+def afficher_indices(screen, indices, row, col):
+    font = pygame.font.SysFont('Arial', 28)
+    couleur = (75, 0, 130)
+    if indices:
+        message = f"Indice : Le(s) chiffre(s) {', '.join(str(i) for i in indices)} peuvent être ajoutés dans cette case."
+    else:
+        message = "Aucun chiffre ne peut être ajouté dans cette case."
+    text_surface = font.render(message, True, couleur)
+    x_position = Constants.SCREEN_WIDTH - text_surface.get_width() - 40
+    y_position = Constants.SCREEN_HEIGHT - text_surface.get_height() - 20
+    screen.blit(text_surface, (x_position, y_position))
+    pygame.display.flip()
+
 def main():
     global sudoku, selected_tile,selected_difficulty
     splash_screen() #affiche la page initiale
+    logger.log("La partie est commencé.", "info")
     sudoku.generate_view_board(selected_difficulty) #Initialise le board selon le niveau de difficulte 
+    logger.log("Grille générée","debug")
     refresh_button_rect, hint_button_rect, difficulty_button_rects = draw_sudoku_screen() 
     running = True
     chances = 3
-    clicked_tile =None
+    clicked_tile = None
     Joue = True
     draw_chances(screen,chances)
+    logger.log(f"Lancement du jeu réussi","debug")
+    logger.log(f"La difficulté est de info","debug")
     
     while running:
         mouse_pos = pygame.mouse.get_pos()
@@ -268,30 +283,49 @@ def main():
                 running = False 
             elif event.type == MOUSEBUTTONDOWN:
                 # TODO 4.3. Réinitialisation du jeu
+                x,y = event.pos
+                clicked_outside = True 
+
                 if refresh_button_rect.collidepoint(event.pos):
-                    logger 
-                    print("Refresh button clicked")  # À retirer...
+                    logger.log("L'utilisateur a démarré une nouvelle partie.","info")
                     sudoku.generate_view_board(selected_difficulty)
                     selected_tile = None
                     chances = 3
                     Joue = True
+                    clicked_outside = False
                     draw_sudoku_screen()
                     draw_chances(screen,chances)
+                    # try :
+                    #     sudoku.generate_starting_board(selected_difficulty)
+                    # except Exception as e:
+                    #     logger.log(f"La grille ne s'est pas généré", "critical")
                     # TODO
                 # TODO 4.3. Indices
                 elif hint_button_rect.collidepoint(event.pos) and Joue:
-                    indices = sudoku.Indice(row, col)
-                    logger.log(f"Hint button clicked","info")
-                    if indices:
-                        #print(f"Indice : Le chiffre {indice[2]} peut être ajouté à la ligne {indice[1]+1}")
-                        logger.log(f"Indice : Les chiffres {', '.join(str(i) for i in indices)} peuvent être ajoutés à la ligne {col+1}, colonne {row + 1}.", "info")                       
-
+                    try:
+                        if clicked_tile is not None:
+                            row, col = clicked_tile
+                            indices = sudoku.Indice(row, col) 
+                            logger.log(f"L'utilisateur a demandé un indice.", "info")
+                            if indices:
+                                afficher_indices(screen, indices, row, col)
+                                logger.log(f"Indice : Le(s) chiffre(s) {', '.join(str(i) for i in indices)} peuvent être ajoutés à la ligne {row+1}, colonne {col + 1}.", "info")   
+                            else: 
+                                logger.log("Aucun indice disponible.", "warning") 
+                                afficher_indices(screen, indices, row, col)   
+                        clicked_outside = False
+                    except Exception as e: 
+                        logger.log(f"Erreur dans la demande d'indice","warning")         
+                elif any(rect.collidepoint((x, y)) for rect in difficulty_button_rects):
+                    logger.log(f"Nouvelle difficulté sélectionnée: {selected_difficulty}.", "info")
+                    clicked_outside = False
                 # Difficulty buttons
                 else:
-                    x,y = event.pos
                     clicked_tile= get_clicked_tile(x, y)
                     if clicked_tile != None and Joue:
-                        print(f"Clicked tile:{clicked_tile}")
+                        row, col = clicked_tile
+                        clicked_tile= get_clicked_tile(x, y)
+                        logger.log(f"L'utilisateur a selectionne {(col+1,row+1)}","info")
                         selected_tile = clicked_tile
                         row,col = clicked_tile
                         if sudoku._board[row][col] == 0: #permet de cliquer seulement si la case est vide 
@@ -300,27 +334,28 @@ def main():
                             draw_selected_tile(screen,selected_tile)
                         else:
                             selected_tile = None
+                        clicked_outside = False 
+                if clicked_outside:
+                    logger.log(" Clic en dehors des zones interactives.", "debug")
                     for i, rect in enumerate(difficulty_button_rects):
                         if rect.collidepoint(event.pos):
+                            logger.log(f" Le niveau de difficulté est: {selected_difficulty}.", "info")
                             # TODO 4.3. Difficultés
                             if i == 0:
                                 selected_difficulty = Difficulty.EASY
-                                #sudoku.generate_view_board(selected_difficulty)
+
                             elif i == 1:
                                 selected_difficulty = Difficulty.INTERMEDIATE
-                                #sudoku.generate_view_board(selected_difficulty)
+
                             elif i == 2: 
                                 selected_difficulty = Difficulty.ADVANCED
-                                #sudoku.generate_view_board(selected_difficulty)
+
                             break
-                        #draw_sudoku_screen()  
-                        #draw_selected_tile(screen, selected_tile)
+                    
             elif event.type == KEYDOWN:
                 # TODO 4.3. Insertion d'une case à la suite de l'appui du clavier (0-9)
                 if event.unicode in '0123456789' and Joue:
-                    logger.log(f"User clicked on {event.unicode}", "info")
-                    #if #une case est selectionnee et la valeur a inserer est valide (mene vers une sol valide) on insere le chiffre, si non, on decremente le nombre de chances
-                    # TODO
+                    logger.log(f"L'utilisateur a cliqué sur {event.unicode}", "info")
                     if selected_tile:  
                         row, col = selected_tile
                         num = int(event.unicode)
@@ -328,17 +363,20 @@ def main():
                             sudoku._board[row][col] = 0
                         elif sudoku.is_valid(row, col, num):  
                             sudoku._board[row][col] = num
+                            logger.log(f"Placement du chiffre {num} réussi.", "info")
                             if sudoku.Board_Complete():
                                 logger.log(f"La grille a été completé", "info")
                                 afficher_message_fin(screen, "Vous avez gagné.")
+                                logger.log(f"L'utilisateur a gagné !","info")
                                 pygame.display.flip()
                                 Joue = False
+            
                         else:
                             chances -= 1
-                            logger.log(f"Mouvement n'est pas valide. Chances restantes: {sudoku.chances}", "warning")
+                            logger.log(f"Mauvaise entrée. Chances restantes: {sudoku.chances}", "critical")
                             if chances <= 0:
                                 afficher_message_fin(screen, "Vous avez perdu. Plus de chances.")
-                                #logger.log(f"")
+                                logger.log(f"Les chances sont épuisées", "critical")
                                 pygame.display.flip()
                                 Joue= False
                                 break
@@ -347,7 +385,8 @@ def main():
         
             if not clicked_tile:
                 draw_sudoku_screen()
-                draw_numbers(screen)      
+                draw_numbers(screen) 
+
             if clicked_tile is not None:
                 draw_selected_tile(screen, selected_tile)
                 pygame.display.flip()
@@ -364,3 +403,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+#case encadre,debug
+#gestion clique, critical
+#numero ajouter a lecran, debug
+#message succes, debug
+#verif grille pleine erreur, critical
+#message etteur, debug

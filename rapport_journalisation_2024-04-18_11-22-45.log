@@ -1,0 +1,4 @@
+2024-04-18 11:22:45 - INFO - [0.00secondes]-This is an informational message.
+2024-04-18 11:22:45 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-18 11:22:45 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-18 11:22:46 - INFO - [1.40secondes]-La partie est commencé.

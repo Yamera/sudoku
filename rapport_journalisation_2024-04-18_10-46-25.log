@@ -1,0 +1,7 @@
+2024-04-18 10:46:25 - INFO - [0.00secondes]-This is an informational message.
+2024-04-18 10:46:25 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-18 10:46:25 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-18 10:46:27 - INFO - [1.68secondes]-La partie est commencé.
+2024-04-18 10:46:38 - INFO - [12.90secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-18 10:46:39 - INFO - [14.22secondes]-Le niveau de difficulté est: Easy.
+2024-04-18 10:46:40 - INFO - [15.06secondes]-L'utilisateur a démarré une nouvelle partie.

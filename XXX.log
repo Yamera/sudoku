@@ -935,3 +935,227 @@
 2024-04-15 16:28:38 - INFO - [10.62secondes]-User clicked on 8
 2024-04-15 16:28:42 - INFO - [14.19secondes]-User clicked on 2
 2024-04-15 16:28:45 - INFO - [17.50secondes]-User clicked on 9
+2024-04-15 17:03:00 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 17:03:00 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 17:03:00 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 17:03:15 - INFO - [15.33secondes]-Hint button clicked
+2024-04-15 17:03:15 - INFO - [15.33secondes]-Indice : Les chiffres 1 peuvent être ajoutés à la ligne 6, colonne 9.
+2024-04-15 17:03:23 - INFO - [22.68secondes]-Hint button clicked
+2024-04-15 17:03:23 - INFO - [22.68secondes]-Indice : Les chiffres 3 peuvent être ajoutés à la ligne 5, colonne 5.
+2024-04-15 17:22:11 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 17:22:11 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 17:22:11 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 17:25:31 - INFO - [0.01secondes]-This is an informational message.
+2024-04-15 17:25:31 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-15 17:25:31 - CRITICAL - [0.02secondes]-This is a critical message.
+2024-04-15 17:26:23 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 17:26:23 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 17:26:23 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 17:26:30 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 17:26:30 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-15 17:26:30 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 17:26:33 - CRITICAL - [3.13secondes]-Hint button clicked
+2024-04-15 17:26:33 - INFO - [3.13secondes]-Indice : Les chiffres 2, 7 peuvent être ajoutés à la ligne 5, colonne 8.
+2024-04-15 17:33:50 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 17:33:50 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 17:33:50 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 17:33:54 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 17:33:54 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 17:33:54 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 17:34:07 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 17:34:07 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 17:34:07 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 17:34:22 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 17:34:22 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-15 17:34:22 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 17:34:24 - CRITICAL - [2.40secondes]-Aucune case sélectionnée pour obtenir pour obtenir un indice
+2024-04-15 18:31:09 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:31:09 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-15 18:31:09 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 18:31:17 - CRITICAL - [7.92secondes]-Hint button clicked
+2024-04-15 18:31:17 - INFO - [7.93secondes]-Indice : Les chiffres 2, 6 peuvent être ajoutés à la ligne 4, colonne 7.
+2024-04-15 18:31:20 - INFO - [11.01secondes]-User clicked on 2
+2024-04-15 18:31:24 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:31:24 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 18:31:24 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 18:31:26 - CRITICAL - [2.62secondes]-Aucune case sélectionnée pour obtenir pour obtenir un indice
+2024-04-15 18:31:54 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:31:54 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 18:31:54 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 18:31:57 - CRITICAL - [3.15secondes]-Aucune case sélectionnée pour obtenir pour obtenir un indice
+2024-04-15 18:35:41 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:35:41 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 18:35:41 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 18:36:06 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:36:06 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 18:36:06 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 18:36:54 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:36:54 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 18:36:54 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 18:37:39 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:37:39 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 18:37:39 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 18:37:53 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:37:53 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 18:37:53 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 18:39:03 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:39:03 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 18:39:03 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 18:39:50 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:39:50 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-15 18:39:50 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 18:42:56 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:42:56 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 18:42:56 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 18:43:10 - CRITICAL - [14.41secondes]-Hint button clicked
+2024-04-15 18:43:10 - INFO - [14.41secondes]-Indice : Les chiffres 8, 9 peuvent être ajoutés à la ligne 4, colonne 8.
+2024-04-15 18:43:13 - CRITICAL - [17.33secondes]-Hint button clicked
+2024-04-15 18:43:13 - INFO - [17.33secondes]-Indice : Les chiffres 8, 9 peuvent être ajoutés à la ligne 4, colonne 8.
+2024-04-15 18:43:18 - INFO - [21.93secondes]-User clicked on 2
+2024-04-15 18:43:18 - CRITICAL - [21.93secondes]-Mouvement n'est pas valide. Chances restantes: 3
+2024-04-15 18:43:19 - INFO - [23.00secondes]-User clicked on 3
+2024-04-15 18:43:19 - CRITICAL - [23.00secondes]-Mouvement n'est pas valide. Chances restantes: 3
+2024-04-15 18:43:21 - INFO - [24.91secondes]-User clicked on 4
+2024-04-15 18:43:21 - CRITICAL - [24.91secondes]-Mouvement n'est pas valide. Chances restantes: 3
+2024-04-15 18:43:28 - CRITICAL - [32.13secondes]-Hint button clicked
+2024-04-15 18:43:29 - CRITICAL - [33.04secondes]-Hint button clicked
+2024-04-15 18:43:29 - CRITICAL - [33.20secondes]-Hint button clicked
+2024-04-15 18:43:30 - CRITICAL - [33.76secondes]-Hint button clicked
+2024-04-15 18:43:31 - CRITICAL - [34.79secondes]-Hint button clicked
+2024-04-15 18:44:01 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:44:01 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 18:44:01 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 18:46:50 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 18:46:50 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 18:46:50 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 18:46:54 - INFO - [4.25secondes]-User clicked on 4
+2024-04-15 18:46:54 - CRITICAL - [4.26secondes]-Mouvement n'est pas valide. Chances restantes: 3
+2024-04-15 18:46:56 - INFO - [6.57secondes]-User clicked on 5
+2024-04-15 18:46:56 - CRITICAL - [6.57secondes]-Mouvement n'est pas valide. Chances restantes: 3
+2024-04-15 19:19:56 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:19:56 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:19:56 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 19:20:14 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:20:14 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:20:14 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 19:20:20 - INFO - [5.54secondes]-User clicked on 2
+2024-04-15 19:20:20 - CRITICAL - [5.54secondes]-Mouvement n'est pas valide. Chances restantes: 3
+2024-04-15 19:20:24 - INFO - [10.17secondes]-User clicked on 3
+2024-04-15 19:20:27 - INFO - [12.35secondes]-User clicked on 4
+2024-04-15 19:20:28 - INFO - [13.64secondes]-User clicked on 5
+2024-04-15 19:20:28 - CRITICAL - [13.64secondes]-Mouvement n'est pas valide. Chances restantes: 3
+2024-04-15 19:20:31 - INFO - [16.82secondes]-User clicked on 6
+2024-04-15 19:20:31 - CRITICAL - [16.82secondes]-Mouvement n'est pas valide. Chances restantes: 3
+2024-04-15 19:25:15 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:25:15 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-15 19:25:15 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 19:25:24 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:25:24 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:25:24 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 19:25:31 - INFO - [7.14secondes]-User clicked on 8
+2024-04-15 19:25:36 - INFO - [12.56secondes]-User clicked on 8
+2024-04-15 19:25:36 - CRITICAL - [12.56secondes]-Mouvement n'est pas valide. Chances restantes: 3
+2024-04-15 19:25:37 - INFO - [12.77secondes]-User clicked on 8
+2024-04-15 19:25:37 - CRITICAL - [12.77secondes]-Mouvement n'est pas valide. Chances restantes: 3
+2024-04-15 19:25:38 - INFO - [14.09secondes]-User clicked on 7
+2024-04-15 19:25:38 - CRITICAL - [14.09secondes]-Mouvement n'est pas valide. Chances restantes: 3
+2024-04-15 19:26:17 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:26:17 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:26:17 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 19:26:21 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:26:21 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:26:21 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 19:26:23 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:26:23 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:26:23 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 19:26:25 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:26:25 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:26:25 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 19:26:28 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:26:28 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:26:28 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 19:26:30 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:26:30 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-15 19:26:30 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 19:26:32 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:26:32 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:26:32 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 19:26:37 - INFO - [0.01secondes]-This is an informational message.
+2024-04-15 19:26:37 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-15 19:26:37 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 19:27:02 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:27:02 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:27:02 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 19:29:36 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:29:36 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:29:36 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 19:29:41 - CRITICAL - [4.77secondes]-Hint button clicked
+2024-04-15 19:29:41 - INFO - [4.77secondes]-Indice : Les chiffres 1 peuvent être ajoutés à la ligne 3, colonne 7.
+2024-04-15 19:30:10 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:30:10 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:30:10 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 19:30:14 - CRITICAL - [3.15secondes]-Hint button clicked
+2024-04-15 19:30:14 - INFO - [3.16secondes]-Indice : Les chiffres 2, 6 peuvent être ajoutés à la ligne 7, colonne 9.
+2024-04-15 19:33:27 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:33:27 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:33:27 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 19:33:31 - CRITICAL - [3.98secondes]-Hint button clicked
+2024-04-15 19:33:31 - INFO - [3.99secondes]-Indice : Les chiffres 2, 4 peuvent être ajoutés à la ligne 8, colonne 9.
+2024-04-15 19:34:54 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:34:54 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:34:54 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 19:34:58 - CRITICAL - [4.36secondes]-Hint button clicked
+2024-04-15 19:34:58 - INFO - [4.36secondes]-Indice : Les chiffres 2, 5, 8 peuvent être ajoutés à la ligne 3, colonne 8.
+2024-04-15 19:38:18 - INFO - [0.02secondes]-This is an informational message.
+2024-04-15 19:38:18 - DEBUG - [0.06secondes]-This is a debug message.
+2024-04-15 19:38:18 - CRITICAL - [0.06secondes]-This is a critical message.
+2024-04-15 19:38:24 - CRITICAL - [5.46secondes]-Hint button clicked
+2024-04-15 19:38:24 - INFO - [5.46secondes]-Indice : Les chiffres 8 peuvent être ajoutés à la ligne 3, colonne 9.
+2024-04-15 19:43:40 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:43:40 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:43:40 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 19:43:43 - CRITICAL - [3.35secondes]-Hint button clicked
+2024-04-15 19:43:43 - INFO - [3.35secondes]-Indice : Les chiffres 1, 7 peuvent être ajoutés à la ligne 6, colonne 9.
+2024-04-15 19:43:58 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:43:58 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:43:58 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 19:44:04 - CRITICAL - [5.78secondes]-Hint button clicked
+2024-04-15 19:44:04 - INFO - [5.78secondes]-Indice : Les chiffres 4, 7 peuvent être ajoutés à la ligne 5, colonne 8.
+2024-04-15 19:45:22 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:45:22 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 19:45:22 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-15 19:45:26 - CRITICAL - [3.99secondes]-Hint button clicked
+2024-04-15 19:45:26 - INFO - [4.00secondes]-Indice : Les chiffres 3, 6 peuvent être ajoutés à la ligne 7, colonne 9.
+2024-04-15 19:46:12 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 19:46:12 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-15 19:46:12 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-15 19:46:14 - CRITICAL - [2.74secondes]-Hint button clicked
+2024-04-15 19:46:14 - INFO - [2.74secondes]-Indice : Les chiffres 1, 8 peuvent être ajoutés à la ligne 6, colonne 8.
+2024-04-15 19:46:19 - INFO - [7.22secondes]-User clicked on 1
+2024-04-15 19:46:23 - CRITICAL - [11.74secondes]-Hint button clicked
+2024-04-15 19:46:26 - CRITICAL - [14.06secondes]-Hint button clicked
+2024-04-15 19:46:29 - CRITICAL - [17.64secondes]-Hint button clicked
+2024-04-15 19:46:29 - INFO - [17.65secondes]-Indice : Les chiffres 2 peuvent être ajoutés à la ligne 6, colonne 7.
+2024-04-15 19:46:44 - INFO - [32.17secondes]-User clicked on 2
+2024-04-15 19:46:48 - CRITICAL - [35.87secondes]-Hint button clicked
+2024-04-15 19:46:50 - CRITICAL - [38.56secondes]-Hint button clicked
+2024-04-15 19:46:50 - INFO - [38.56secondes]-Indice : Les chiffres 1, 7 peuvent être ajoutés à la ligne 3, colonne 7.
+2024-04-15 19:46:53 - CRITICAL - [41.40secondes]-Hint button clicked
+2024-04-15 19:46:53 - INFO - [41.40secondes]-Indice : Les chiffres 3, 4 peuvent être ajoutés à la ligne 2, colonne 8.
+2024-04-15 19:46:58 - CRITICAL - [46.27secondes]-Hint button clicked
+2024-04-15 19:46:58 - INFO - [46.27secondes]-Indice : Les chiffres 3, 4 peuvent être ajoutés à la ligne 2, colonne 8.
+2024-04-15 19:47:45 - INFO - [0.01secondes]-This is an informational message.
+2024-04-15 19:47:45 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-15 19:47:45 - CRITICAL - [0.02secondes]-This is a critical message.
+2024-04-15 19:47:48 - CRITICAL - [3.16secondes]-Hint button clicked
+2024-04-15 19:47:48 - INFO - [3.16secondes]-Indice : Le(s) chiffre(s) 2, 3 peuvent être ajoutés à la ligne 4, colonne 6.
+2024-04-15 19:48:00 - INFO - [15.64secondes]-User clicked on 2
+2024-04-15 19:48:03 - CRITICAL - [18.43secondes]-Hint button clicked
+2024-04-15 19:48:03 - INFO - [18.43secondes]-Indice : Le(s) chiffre(s) 4, 7 peuvent être ajoutés à la ligne 6, colonne 5.
+2024-04-15 19:48:06 - CRITICAL - [20.87secondes]-Hint button clicked
+2024-04-15 19:48:06 - INFO - [20.88secondes]-Indice : Le(s) chiffre(s) 1, 2, 4 peuvent être ajoutés à la ligne 6, colonne 9.
+2024-04-15 19:48:08 - CRITICAL - [23.16secondes]-Hint button clicked
+2024-04-15 19:48:08 - INFO - [23.17secondes]-Indice : Le(s) chiffre(s) 2, 4 peuvent être ajoutés à la ligne 9, colonne 9.
+2024-04-15 20:56:50 - INFO - [0.00secondes]-This is an informational message.
+2024-04-15 20:56:50 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-15 20:56:50 - CRITICAL - [0.00secondes]-This is a critical message.

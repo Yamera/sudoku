@@ -37,9 +37,6 @@ class Sudoku:
         self._board = [[0] * 9 for _ in range(9)]
 
     def is_valid(self, row, col, num):
-        """
-        Vérifie si le placement de 'num' dans la position (row, col) est valide.
-        """
         for i in range(9):
             if self._board[row][i] == num:
                 return False
@@ -63,18 +60,19 @@ class Sudoku:
     def solve_sudoku(self):
         find = self.find_empty()
         if not find:
-            return True
+            return True  
         else:
             row, col = find
 
-        for num in range(1, 10):
-            if self.is_valid(row, col, num):
+        nums = list(range(1, 10))  
+        random.shuffle(nums)  
+
+        for num in nums:  
+            if self.is_valid(row, col, num):  
                 self._board[row][col] = num
-
-                if self.solve_sudoku():
+                if self.solve_sudoku():  
                     return True
-
-                self._board[row][col] = 0
+                self._board[row][col] = 0  
 
         return False
 
@@ -105,46 +103,31 @@ class Sudoku:
         unit = [i for i in unit if i != 0]
         return len(unit) == len(set(unit))
 
-    def sol_valide(self): #Verifie si sol est valide.
-        for i in range(9):
-            row = []
-            col = []
-            for j in range(9):
-                row.append(self._board[i][j])
-                col.append(self._board[j][i])
-            if not self.unit_valid(row) or not self.unit_valid(col):
-                return False
+    # def sol_valide(self): #Verifie si sol est valide.
+    #     for i in range(9):
+    #         row = []
+    #         col = []
+    #         for j in range(9):
+    #             row.append(self._board[i][j])
+    #             col.append(self._board[j][i])
+    #         if not self.unit_valid(row) or not self.unit_valid(col):
+    #             return False
             
-        for i in range(0, 9, 3):
-            for j in range(0, 9, 3):
-                block = []
-                for m in range(i, i+3):
-                    for n in range(j, j+3):
-                        block.append(self._board[m][n])
-                if not self.unit_valid(block):
-                    return False
+    #     for i in range(0, 9, 3):
+    #         for j in range(0, 9, 3):
+    #             block = []
+    #             for m in range(i, i+3):
+    #                 for n in range(j, j+3):
+    #                     block.append(self._board[m][n])
+    #             if not self.unit_valid(block):
+    #                 return False
 
-        return True
+    #     return True
     
-    def CaseVide(self): #Verifie si cest une case vide 
-        Cases_Vides= []
-        for i in range(9):
-            for j in range(9):
-                if self._board[i][j] == 0:
-                    Cases_Vides.append((i, j))
-        return Cases_Vides
     
     def Indice(self, row, col): #Genere indices
         indices = [num for num in range(1, 10) if self.is_valid(row, col, num)]
-
         return indices
-
-    # def Indice_Dispo(self):
-    #     if self.chances > 0:
-    #         self.Indice()S
-    #         self.chances -= 1
-    #     else:
-    #         print("Vous n'avez plus d'indices disponible.")
 
     def Board_Complete(self):
         for row in self._board:
@@ -153,13 +136,6 @@ class Sudoku:
                     return False 
         return True       
 
-    def reinitialiser_jeu(self, difficulty="Facile"):
-        self.generate_empty_board()
-        self.solve_sudoku()
-        self.generate_view_board(difficulty)
-        self.chances = 3
-        self.etat_jeu = "En partie"
-        print(f"Jeu réinitialisé avec le niveau : {difficulty}.")
 
 
 sudoku_game = Sudoku()

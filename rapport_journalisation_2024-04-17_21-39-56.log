@@ -1,0 +1,26 @@
+2024-04-17 21:39:56 - INFO - [0.00secondes]-This is an informational message.
+2024-04-17 21:39:56 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-17 21:39:56 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-17 21:39:58 - INFO - [1.64secondes]-La partie est commencé.
+2024-04-17 21:39:59 - INFO - [2.44secondes]-Case selectionnée: (5, 3)
+2024-04-17 21:39:59 - INFO - [2.44secondes]-Case selectionnée: (5, 3)
+2024-04-17 21:39:59 - INFO - [2.44secondes]-Case selectionnée: (5, 3)
+2024-04-17 21:39:59 - INFO - [3.24secondes]-L'utilisateur a cliqué sur 4
+2024-04-17 21:39:59 - CRITICAL - [3.24secondes]-Mauvaise entrée. Chances restantes: 3
+2024-04-17 21:40:00 - INFO - [3.66secondes]-L'utilisateur a cliqué sur 4
+2024-04-17 21:40:00 - CRITICAL - [3.66secondes]-Mauvaise entrée. Chances restantes: 3
+2024-04-17 21:40:00 - INFO - [4.12secondes]-L'utilisateur a cliqué sur 4
+2024-04-17 21:40:00 - CRITICAL - [4.12secondes]-Mauvaise entrée. Chances restantes: 3
+2024-04-17 21:40:00 - CRITICAL - [4.12secondes]-Les chances sont épuisées
+2024-04-17 21:40:01 - INFO - [5.06secondes]-Case selectionnée: (8, 4)
+2024-04-17 21:40:01 - INFO - [5.06secondes]-Case selectionnée: (8, 4)
+2024-04-17 21:40:01 - INFO - [5.06secondes]-Case selectionnée: (8, 4)
+2024-04-17 21:40:02 - INFO - [5.41secondes]-Case selectionnée: (4, 4)
+2024-04-17 21:40:02 - INFO - [5.42secondes]-Case selectionnée: (4, 4)
+2024-04-17 21:40:02 - INFO - [5.42secondes]-Case selectionnée: (4, 4)
+2024-04-17 21:40:02 - INFO - [5.76secondes]-Case selectionnée: (8, 6)
+2024-04-17 21:40:02 - INFO - [5.76secondes]-Case selectionnée: (8, 6)
+2024-04-17 21:40:02 - INFO - [5.76secondes]-Case selectionnée: (8, 6)
+2024-04-17 21:40:03 - INFO - [6.83secondes]-Case selectionnée: None
+2024-04-17 21:40:03 - INFO - [6.83secondes]-Le niveau de difficulté est: Easy.
+2024-04-17 21:40:04 - INFO - [8.14secondes]-L'utilisateur a démarré une nouvelle partie.

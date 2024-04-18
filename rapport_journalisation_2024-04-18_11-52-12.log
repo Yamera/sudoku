@@ -1,0 +1,12 @@
+2024-04-18 11:52:12 - INFO - [0.00secondes]-This is an informational message.
+2024-04-18 11:52:12 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-18 11:52:12 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-18 11:52:14 - INFO - [1.84secondes]-La partie est commencé.
+2024-04-18 11:52:14 - DEBUG - [1.85secondes]-Grille générée
+2024-04-18 11:52:14 - DEBUG - [1.87secondes]-Lancement du jeu réussi
+2024-04-18 11:52:14 - DEBUG - [1.87secondes]-La difficulté est de info
+2024-04-18 11:52:15 - INFO - [3.33secondes]-L'utilisateur a selectionne (5, 8)
+2024-04-18 11:52:18 - INFO - [5.71secondes]-L'utilisateur a cliqué sur 4
+2024-04-18 11:52:18 - INFO - [5.71secondes]-Placement du chiffre 4 réussi.
+2024-04-18 11:52:21 - INFO - [8.62secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-18 11:52:21 - CRITICAL - [8.64secondes]-La grille ne s'est pas généré
