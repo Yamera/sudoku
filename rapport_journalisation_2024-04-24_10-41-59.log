@@ -1,0 +1,35 @@
+2024-04-24 10:41:59 - INFO - [0.01secondes]-This is an informational message.
+2024-04-24 10:41:59 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-24 10:41:59 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-24 10:42:00 - INFO - [1.41secondes]-La partie est commencé.
+2024-04-24 10:42:00 - DEBUG - [1.42secondes]-Grille générée
+2024-04-24 10:42:00 - DEBUG - [1.47secondes]-Lancement du jeu réussi
+2024-04-24 10:42:00 - DEBUG - [1.47secondes]-La difficulté est Facile
+2024-04-24 10:42:01 - DEBUG - [2.61secondes]-Clic de la souris détecté
+2024-04-24 10:42:01 - INFO - [2.61secondes]-L'utilisateur a selectionné (9, 8)
+2024-04-24 10:42:01 - CRITICAL - [2.61secondes]-La case ne peut pas être selectionné.
+2024-04-24 10:42:03 - DEBUG - [3.74secondes]-Clic de la souris détecté
+2024-04-24 10:42:03 - INFO - [3.74secondes]- Clic en dehors des zones interactives.
+2024-04-24 10:42:03 - INFO - [3.74secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 10:42:03 - INFO - [3.74secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-24 10:42:03 - DEBUG - [3.77secondes]-Changement de difficulté effectué avec succès.
+2024-04-24 10:42:03 - DEBUG - [4.47secondes]-Clic de la souris détecté
+2024-04-24 10:42:03 - INFO - [4.47secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 10:42:03 - DEBUG - [4.47secondes]-Clic du bouton refresh détecté
+2024-04-24 10:42:03 - DEBUG - [4.47secondes]-Les chances ont été réinitialisées à 3
+2024-04-24 10:42:04 - DEBUG - [5.13secondes]-Clic de la souris détecté
+2024-04-24 10:42:04 - INFO - [5.13secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 10:42:04 - DEBUG - [5.13secondes]-Clic du bouton refresh détecté
+2024-04-24 10:42:04 - DEBUG - [5.14secondes]-Les chances ont été réinitialisées à 3
+2024-04-24 10:42:04 - DEBUG - [5.29secondes]-Clic de la souris détecté
+2024-04-24 10:42:04 - INFO - [5.29secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 10:42:04 - DEBUG - [5.29secondes]-Clic du bouton refresh détecté
+2024-04-24 10:42:04 - DEBUG - [5.29secondes]-Les chances ont été réinitialisées à 3
+2024-04-24 10:42:04 - DEBUG - [5.44secondes]-Clic de la souris détecté
+2024-04-24 10:42:04 - INFO - [5.44secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 10:42:04 - DEBUG - [5.44secondes]-Clic du bouton refresh détecté
+2024-04-24 10:42:04 - DEBUG - [5.44secondes]-Les chances ont été réinitialisées à 3
+2024-04-24 10:42:05 - DEBUG - [5.79secondes]-Clic de la souris détecté
+2024-04-24 10:42:05 - INFO - [5.79secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 10:42:05 - DEBUG - [5.79secondes]-Clic du bouton refresh détecté
+2024-04-24 10:42:05 - DEBUG - [5.79secondes]-Les chances ont été réinitialisées à 3

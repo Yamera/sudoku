@@ -1,8 +1,0 @@
-2024-04-18 11:30:10 - INFO - [0.00secondes]-This is an informational message.
-2024-04-18 11:30:10 - DEBUG - [0.00secondes]-This is a debug message.
-2024-04-18 11:30:10 - CRITICAL - [0.00secondes]-This is a critical message.
-2024-04-18 11:30:11 - INFO - [1.22secondes]-La partie est commencé.
-2024-04-18 11:30:12 - INFO - [1.75secondes]-L'utilisateur a selectionne (8, 9)
-2024-04-18 11:30:13 - DEBUG - [2.59secondes]- Clic en dehors des zones interactives.
-2024-04-18 11:30:15 - INFO - [5.31secondes]-L'utilisateur a selectionne (8, 9)
-2024-04-18 11:30:16 - DEBUG - [6.13secondes]- Clic en dehors des zones interactives.

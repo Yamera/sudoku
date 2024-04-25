@@ -1,0 +1,26 @@
+2024-04-24 12:06:37 - INFO - [0.00secondes]-This is an informational message.
+2024-04-24 12:06:37 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-24 12:06:37 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-24 12:06:39 - INFO - [1.98secondes]-La partie est commencé.
+2024-04-24 12:06:39 - DEBUG - [2.00secondes]-Grille générée
+2024-04-24 12:06:39 - DEBUG - [2.06secondes]-Lancement du jeu réussi
+2024-04-24 12:06:39 - DEBUG - [2.06secondes]-La difficulté est de info
+2024-04-24 12:06:40 - INFO - [2.95secondes]-L'utilisateur a selectionne (7, 9)
+2024-04-24 12:06:41 - DEBUG - [3.87secondes]- Clic en dehors des zones interactives.
+2024-04-24 12:06:41 - INFO - [3.87secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 12:06:42 - INFO - [4.46secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 12:06:43 - DEBUG - [5.58secondes]- Clic en dehors des zones interactives.
+2024-04-24 12:06:43 - INFO - [5.58secondes]- Le niveau de difficulté est: Intermediate.
+2024-04-24 12:06:43 - INFO - [6.18secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 12:07:11 - DEBUG - [33.86secondes]- Clic en dehors des zones interactives.
+2024-04-24 12:07:11 - INFO - [33.86secondes]- Le niveau de difficulté est: Advanced.
+2024-04-24 12:07:12 - INFO - [34.41secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 12:07:13 - DEBUG - [35.96secondes]- Clic en dehors des zones interactives.
+2024-04-24 12:07:13 - INFO - [35.96secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 12:07:14 - INFO - [36.42secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 12:07:16 - DEBUG - [38.73secondes]- Clic en dehors des zones interactives.
+2024-04-24 12:07:16 - INFO - [38.73secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 12:07:16 - INFO - [39.24secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 12:07:18 - DEBUG - [40.51secondes]- Clic en dehors des zones interactives.
+2024-04-24 12:07:18 - INFO - [40.51secondes]- Le niveau de difficulté est: Intermediate.
+2024-04-24 12:07:18 - INFO - [41.13secondes]-L'utilisateur a démarré une nouvelle partie.

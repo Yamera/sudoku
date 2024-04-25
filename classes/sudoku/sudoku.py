@@ -98,32 +98,6 @@ class Sudoku:
             if self._board[row][col] != 0:  
                 self._board[row][col] = 0
                 CaseVide -= 1
-
-    def unit_valid(self, unit): #Verifie si ligne/col/bloc est valide.
-        unit = [i for i in unit if i != 0]
-        return len(unit) == len(set(unit))
-
-    # def sol_valide(self): #Verifie si sol est valide.
-    #     for i in range(9):
-    #         row = []
-    #         col = []
-    #         for j in range(9):
-    #             row.append(self._board[i][j])
-    #             col.append(self._board[j][i])
-    #         if not self.unit_valid(row) or not self.unit_valid(col):
-    #             return False
-            
-    #     for i in range(0, 9, 3):
-    #         for j in range(0, 9, 3):
-    #             block = []
-    #             for m in range(i, i+3):
-    #                 for n in range(j, j+3):
-    #                     block.append(self._board[m][n])
-    #             if not self.unit_valid(block):
-    #                 return False
-
-    #     return True
-    
     
     def Indice(self, row, col): #Genere indices
         indices = [num for num in range(1, 10) if self.is_valid(row, col, num)]

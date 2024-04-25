@@ -1,0 +1,52 @@
+2024-04-23 22:59:33 - INFO - [0.00secondes]-This is an informational message.
+2024-04-23 22:59:33 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-23 22:59:33 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-23 22:59:34 - INFO - [1.55secondes]-La partie est commencé.
+2024-04-23 22:59:34 - DEBUG - [1.56secondes]-Grille générée
+2024-04-23 22:59:34 - DEBUG - [1.60secondes]-Lancement du jeu réussi
+2024-04-23 22:59:34 - DEBUG - [1.60secondes]-La difficulté est Facile
+2024-04-23 22:59:43 - DEBUG - [10.18secondes]-Clic de la souris détecté
+2024-04-23 22:59:43 - INFO - [10.18secondes]-L'utilisateur a selectionné (9, 8)
+2024-04-23 22:59:43 - CRITICAL - [10.18secondes]-La case ne peut pas être selectionné.
+2024-04-23 22:59:45 - DEBUG - [11.87secondes]-Clic de la souris détecté
+2024-04-23 22:59:45 - INFO - [11.87secondes]-L'utilisateur a selectionné (6, 7)
+2024-04-23 22:59:46 - DEBUG - [13.37secondes]-Clic de la souris détecté
+2024-04-23 22:59:46 - INFO - [13.37secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-23 22:59:46 - DEBUG - [13.37secondes]-Clic du bouton refresh détecté
+2024-04-23 22:59:46 - DEBUG - [13.37secondes]-Les chances ont été réinitialisées à 3
+2024-04-23 22:59:47 - DEBUG - [14.36secondes]-Clic de la souris détecté
+2024-04-23 22:59:47 - INFO - [14.36secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-23 22:59:47 - DEBUG - [14.36secondes]-Clic du bouton refresh détecté
+2024-04-23 22:59:47 - DEBUG - [14.37secondes]-Les chances ont été réinitialisées à 3
+2024-04-23 22:59:49 - DEBUG - [15.78secondes]-Clic de la souris détecté
+2024-04-23 22:59:49 - INFO - [15.78secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-23 22:59:49 - DEBUG - [15.78secondes]-Clic du bouton refresh détecté
+2024-04-23 22:59:49 - DEBUG - [15.78secondes]-Les chances ont été réinitialisées à 3
+2024-04-23 22:59:49 - DEBUG - [16.55secondes]-Clic de la souris détecté
+2024-04-23 22:59:49 - INFO - [16.55secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-23 22:59:49 - DEBUG - [16.55secondes]-Clic du bouton refresh détecté
+2024-04-23 22:59:49 - DEBUG - [16.55secondes]-Les chances ont été réinitialisées à 3
+2024-04-23 22:59:50 - DEBUG - [17.45secondes]-Clic de la souris détecté
+2024-04-23 22:59:50 - INFO - [17.45secondes]- Clic en dehors des zones interactives.
+2024-04-23 22:59:50 - INFO - [17.45secondes]- Le niveau de difficulté est: Easy.
+2024-04-23 22:59:50 - INFO - [17.45secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-23 22:59:50 - DEBUG - [17.49secondes]-Changement de difficulté effectué avec succès.
+2024-04-23 22:59:51 - DEBUG - [18.18secondes]-Clic de la souris détecté
+2024-04-23 22:59:51 - INFO - [18.18secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-23 22:59:51 - DEBUG - [18.19secondes]-Clic du bouton refresh détecté
+2024-04-23 22:59:51 - DEBUG - [18.19secondes]-Les chances ont été réinitialisées à 3
+2024-04-23 22:59:52 - DEBUG - [19.43secondes]-Clic de la souris détecté
+2024-04-23 22:59:52 - INFO - [19.43secondes]-L'utilisateur a selectionné (5, 9)
+2024-04-23 22:59:52 - CRITICAL - [19.43secondes]-La case ne peut pas être selectionné.
+2024-04-23 22:59:53 - DEBUG - [20.37secondes]-Clic de la souris détecté
+2024-04-23 22:59:53 - INFO - [20.37secondes]- Clic en dehors des zones interactives.
+2024-04-23 22:59:53 - INFO - [20.37secondes]- Le niveau de difficulté est: Easy.
+2024-04-23 22:59:53 - INFO - [20.37secondes]-Nouvelle difficulté sélectionnée: Intermediate.
+2024-04-23 22:59:53 - DEBUG - [20.40secondes]-Changement de difficulté effectué avec succès.
+2024-04-23 22:59:54 - DEBUG - [20.90secondes]-Clic de la souris détecté
+2024-04-23 22:59:54 - INFO - [20.90secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-23 22:59:54 - DEBUG - [20.90secondes]-Clic du bouton refresh détecté
+2024-04-23 22:59:54 - DEBUG - [20.90secondes]-Les chances ont été réinitialisées à 3
+2024-04-23 22:59:54 - DEBUG - [21.31secondes]-Clic de la souris détecté
+2024-04-23 22:59:54 - INFO - [21.31secondes]-L'utilisateur a selectionné (6, 9)
+2024-04-23 22:59:54 - CRITICAL - [21.31secondes]-La case ne peut pas être selectionné.

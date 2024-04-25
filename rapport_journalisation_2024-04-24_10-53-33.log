@@ -1,0 +1,26 @@
+2024-04-24 10:53:33 - INFO - [0.00secondes]-This is an informational message.
+2024-04-24 10:53:33 - DEBUG - [0.02secondes]-This is a debug message.
+2024-04-24 10:53:33 - CRITICAL - [0.02secondes]-This is a critical message.
+2024-04-24 10:53:34 - INFO - [1.78secondes]-La partie est commencé.
+2024-04-24 10:53:34 - DEBUG - [1.78secondes]-Grille générée
+2024-04-24 10:53:34 - DEBUG - [1.81secondes]-Lancement du jeu réussi
+2024-04-24 10:53:34 - DEBUG - [1.81secondes]-La difficulté est Facile
+2024-04-24 10:53:36 - DEBUG - [3.05secondes]-Clic de la souris détecté
+2024-04-24 10:53:36 - INFO - [3.05secondes]-L'utilisateur a selectionné (9, 7)
+2024-04-24 10:53:36 - CRITICAL - [3.05secondes]-La case ne peut pas être selectionné.
+2024-04-24 10:53:43 - DEBUG - [10.05secondes]-Clic de la souris détecté
+2024-04-24 10:53:43 - INFO - [10.05secondes]- Clic en dehors des zones interactives.
+2024-04-24 10:53:43 - INFO - [10.05secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 10:53:43 - INFO - [10.05secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-24 10:53:43 - DEBUG - [10.09secondes]-Changement de difficulté effectué avec succès.
+2024-04-24 10:53:43 - DEBUG - [10.79secondes]-Clic de la souris détecté
+2024-04-24 10:53:43 - INFO - [10.79secondes]-L'utilisateur a selectionné (7, 7)
+2024-04-24 10:53:43 - CRITICAL - [10.79secondes]-La case ne peut pas être selectionné.
+2024-04-24 10:53:45 - DEBUG - [12.18secondes]-Clic de la souris détecté
+2024-04-24 10:53:45 - INFO - [12.18secondes]- Clic en dehors des zones interactives.
+2024-04-24 10:53:45 - INFO - [12.18secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 10:53:45 - INFO - [12.18secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-24 10:53:45 - DEBUG - [12.21secondes]-Changement de difficulté effectué avec succès.
+2024-04-24 10:53:45 - DEBUG - [12.65secondes]-Clic de la souris détecté
+2024-04-24 10:53:45 - INFO - [12.65secondes]-L'utilisateur a selectionné (6, 6)
+2024-04-24 10:53:45 - CRITICAL - [12.66secondes]-La case ne peut pas être selectionné.

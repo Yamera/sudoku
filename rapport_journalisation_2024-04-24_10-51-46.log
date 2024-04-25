@@ -1,0 +1,19 @@
+2024-04-24 10:51:46 - INFO - [0.00secondes]-This is an informational message.
+2024-04-24 10:51:46 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-24 10:51:46 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-24 10:51:47 - INFO - [1.13secondes]-La partie est commencé.
+2024-04-24 10:51:48 - DEBUG - [1.14secondes]-Grille générée
+2024-04-24 10:51:48 - DEBUG - [1.17secondes]-Lancement du jeu réussi
+2024-04-24 10:51:48 - DEBUG - [1.17secondes]-La difficulté est Facile
+2024-04-24 10:51:48 - DEBUG - [1.97secondes]-Clic de la souris détecté
+2024-04-24 10:51:48 - INFO - [1.97secondes]- Clic en dehors des zones interactives.
+2024-04-24 10:51:50 - DEBUG - [3.62secondes]-Clic de la souris détecté
+2024-04-24 10:51:50 - INFO - [3.62secondes]-L'utilisateur a selectionné (9, 8)
+2024-04-24 10:51:50 - CRITICAL - [3.62secondes]-La case ne peut pas être selectionné.
+2024-04-24 10:51:51 - DEBUG - [4.53secondes]-Clic de la souris détecté
+2024-04-24 10:51:51 - INFO - [4.53secondes]-L'utilisateur a selectionné (8, 8)
+2024-04-24 10:51:52 - DEBUG - [5.47secondes]-Clic de la souris détecté
+2024-04-24 10:51:52 - DEBUG - [5.47secondes]-Clic du bouton d'indice détecté
+2024-04-24 10:51:52 - INFO - [5.47secondes]-L'utilisateur a demandé un indice.
+2024-04-24 10:51:52 - INFO - [5.48secondes]-Indice : Le(s) chiffre(s) 4, 7 peuvent être ajoutés à la ligne 8, colonne 8.
+2024-04-24 10:51:52 - DEBUG - [5.48secondes]-Un indice a été généré avec succès

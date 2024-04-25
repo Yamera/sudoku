@@ -1,0 +1,20 @@
+2024-04-24 12:14:56 - INFO - [0.00secondes]-This is an informational message.
+2024-04-24 12:14:56 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-24 12:14:56 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-24 12:14:58 - INFO - [1.86secondes]-La partie est commencé.
+2024-04-24 12:14:58 - DEBUG - [1.86secondes]-Grille générée
+2024-04-24 12:14:58 - DEBUG - [1.88secondes]-Lancement du jeu réussi
+2024-04-24 12:14:58 - DEBUG - [1.88secondes]-La difficulté est de info
+2024-04-24 12:14:59 - DEBUG - [2.86secondes]- Clic en dehors des zones interactives.
+2024-04-24 12:14:59 - INFO - [2.86secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 12:14:59 - INFO - [3.43secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 12:15:00 - DEBUG - [4.26secondes]- Clic en dehors des zones interactives.
+2024-04-24 12:15:00 - INFO - [4.26secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 12:15:01 - INFO - [4.89secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 12:15:07 - INFO - [11.43secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 12:15:09 - DEBUG - [12.76secondes]- Clic en dehors des zones interactives.
+2024-04-24 12:15:09 - INFO - [12.76secondes]- Le niveau de difficulté est: Intermediate.
+2024-04-24 12:15:09 - INFO - [13.47secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 12:15:22 - DEBUG - [25.83secondes]- Clic en dehors des zones interactives.
+2024-04-24 12:15:22 - INFO - [25.83secondes]- Le niveau de difficulté est: Advanced.
+2024-04-24 12:15:22 - INFO - [26.53secondes]-L'utilisateur a démarré une nouvelle partie.

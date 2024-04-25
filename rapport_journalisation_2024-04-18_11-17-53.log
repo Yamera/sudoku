@@ -1,8 +1,0 @@
-2024-04-18 11:17:53 - INFO - [0.00secondes]-This is an informational message.
-2024-04-18 11:17:53 - DEBUG - [0.00secondes]-This is a debug message.
-2024-04-18 11:17:53 - CRITICAL - [0.00secondes]-This is a critical message.
-2024-04-18 11:17:54 - INFO - [1.36secondes]-La partie est commencé.
-2024-04-18 11:17:59 - INFO - [5.88secondes]-L'utilisateur a cliqué sur 1
-2024-04-18 11:17:59 - CRITICAL - [5.88secondes]-Mauvaise entrée. Chances restantes: 3
-2024-04-18 11:18:03 - INFO - [9.93secondes]-L'utilisateur a cliqué sur 2
-2024-04-18 11:18:03 - CRITICAL - [9.93secondes]-Mauvaise entrée. Chances restantes: 3

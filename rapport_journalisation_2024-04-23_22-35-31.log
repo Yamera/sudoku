@@ -1,0 +1,29 @@
+2024-04-23 22:35:31 - INFO - [0.01secondes]-This is an informational message.
+2024-04-23 22:35:31 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-23 22:35:31 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-23 22:35:32 - INFO - [1.64secondes]-La partie est commencé.
+2024-04-23 22:35:32 - DEBUG - [1.64secondes]-Grille générée
+2024-04-23 22:35:32 - DEBUG - [1.68secondes]-Lancement du jeu réussi
+2024-04-23 22:35:32 - DEBUG - [1.68secondes]-La difficulté est Facile
+2024-04-23 22:35:37 - DEBUG - [6.01secondes]-Clic de la souris détecté
+2024-04-23 22:35:37 - INFO - [6.01secondes]-L'utilisateur a selectionné (9, 8)
+2024-04-23 22:35:37 - CRITICAL - [6.01secondes]-La case ne peut pas être selectionné.
+2024-04-23 22:35:38 - DEBUG - [7.41secondes]-Clic de la souris détecté
+2024-04-23 22:35:38 - INFO - [7.41secondes]-L'utilisateur a selectionné (8, 9)
+2024-04-23 22:35:39 - DEBUG - [8.32secondes]-Clic de la souris détecté
+2024-04-23 22:35:39 - INFO - [8.32secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-23 22:35:39 - DEBUG - [8.32secondes]-Changement de difficulté effectué avec succès.
+2024-04-23 22:35:41 - DEBUG - [10.67secondes]-Clic de la souris détecté
+2024-04-23 22:35:41 - INFO - [10.67secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-23 22:35:41 - DEBUG - [10.67secondes]-Clic du bouton refresh détecté
+2024-04-23 22:35:41 - DEBUG - [10.67secondes]-Les chances ont été réinitialisées à 3
+2024-04-23 22:35:44 - DEBUG - [12.97secondes]-Clic de la souris détecté
+2024-04-23 22:35:44 - INFO - [12.97secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-23 22:35:44 - DEBUG - [12.97secondes]-Changement de difficulté effectué avec succès.
+2024-04-23 22:35:46 - DEBUG - [15.27secondes]-Clic de la souris détecté
+2024-04-23 22:35:46 - INFO - [15.27secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-23 22:35:46 - DEBUG - [15.27secondes]-Clic du bouton refresh détecté
+2024-04-23 22:35:46 - DEBUG - [15.27secondes]-Les chances ont été réinitialisées à 3
+2024-04-23 22:35:47 - DEBUG - [16.34secondes]-Clic de la souris détecté
+2024-04-23 22:35:47 - INFO - [16.34secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-23 22:35:47 - DEBUG - [16.34secondes]-Changement de difficulté effectué avec succès.

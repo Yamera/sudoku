@@ -1,0 +1,39 @@
+2024-04-23 21:50:18 - INFO - [0.00secondes]-This is an informational message.
+2024-04-23 21:50:18 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-23 21:50:18 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-23 21:50:21 - INFO - [2.72secondes]-La partie est commencé.
+2024-04-23 21:50:21 - DEBUG - [2.73secondes]-Grille générée
+2024-04-23 21:50:21 - DEBUG - [2.81secondes]-Lancement du jeu réussi
+2024-04-23 21:50:21 - DEBUG - [2.81secondes]-La difficulté est Facile
+2024-04-23 21:50:24 - DEBUG - [6.12secondes]-Clic de la souris détecté
+2024-04-23 21:50:24 - INFO - [6.12secondes]-L'utilisateur a selectionné (4, 6)
+2024-04-23 21:50:28 - DEBUG - [10.12secondes]-Clic de la souris détecté
+2024-04-23 21:50:28 - INFO - [10.12secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-23 21:50:28 - DEBUG - [10.12secondes]-Clic du bouton refresh détecté
+2024-04-23 21:50:28 - DEBUG - [10.13secondes]-Les chances ont été réinitialisées à 3
+2024-04-23 21:50:30 - DEBUG - [11.73secondes]-Clic de la souris détecté
+2024-04-23 21:50:30 - INFO - [11.73secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-23 21:50:30 - DEBUG - [11.73secondes]-Changement de difficulté effectué avec succès.
+2024-04-23 21:50:31 - DEBUG - [12.81secondes]-Clic de la souris détecté
+2024-04-23 21:50:31 - INFO - [12.81secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-23 21:50:31 - DEBUG - [12.81secondes]-Clic du bouton refresh détecté
+2024-04-23 21:50:31 - DEBUG - [12.82secondes]-Les chances ont été réinitialisées à 3
+2024-04-23 21:50:33 - DEBUG - [15.03secondes]-Clic de la souris détecté
+2024-04-23 21:50:33 - INFO - [15.03secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-23 21:50:33 - DEBUG - [15.04secondes]-Changement de difficulté effectué avec succès.
+2024-04-23 21:50:34 - DEBUG - [15.98secondes]-Clic de la souris détecté
+2024-04-23 21:50:34 - INFO - [15.98secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-23 21:50:34 - DEBUG - [15.98secondes]-Clic du bouton refresh détecté
+2024-04-23 21:50:34 - DEBUG - [15.99secondes]-Les chances ont été réinitialisées à 3
+2024-04-23 21:50:37 - DEBUG - [18.77secondes]-Clic de la souris détecté
+2024-04-23 21:50:37 - INFO - [18.77secondes]-L'utilisateur a selectionné (3, 9)
+2024-04-23 21:50:38 - DEBUG - [20.09secondes]-Clic de la souris détecté
+2024-04-23 21:50:38 - DEBUG - [20.09secondes]-Clic du bouton d'indice détecté
+2024-04-23 21:50:38 - INFO - [20.09secondes]-L'utilisateur a demandé un indice.
+2024-04-23 21:50:38 - INFO - [20.09secondes]-Indice : Le(s) chiffre(s) 3, 8, 9 peuvent être ajoutés à la ligne 9, colonne 3.
+2024-04-23 21:50:38 - DEBUG - [20.10secondes]-Un indice a été généré avec succès
+2024-04-23 21:50:42 - DEBUG - [23.46secondes]-Clic de la souris détecté
+2024-04-23 21:50:42 - INFO - [23.46secondes]-L'utilisateur a selectionné (4, 9)
+2024-04-23 21:50:42 - CRITICAL - [23.46secondes]-La case ne peut pas être selectionné.
+2024-04-23 21:50:43 - DEBUG - [24.55secondes]-Clic de la souris détecté
+2024-04-23 21:50:43 - INFO - [24.55secondes]-L'utilisateur a selectionné (5, 9)

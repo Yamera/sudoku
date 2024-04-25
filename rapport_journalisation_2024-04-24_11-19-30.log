@@ -1,0 +1,17 @@
+2024-04-24 11:19:30 - INFO - [0.00secondes]-This is an informational message.
+2024-04-24 11:19:30 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-24 11:19:30 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-24 11:19:33 - INFO - [2.98secondes]-La partie est commencé.
+2024-04-24 11:19:33 - DEBUG - [2.99secondes]-Grille générée
+2024-04-24 11:19:33 - DEBUG - [3.05secondes]-Lancement du jeu réussi
+2024-04-24 11:19:33 - DEBUG - [3.05secondes]-La difficulté est de info
+2024-04-24 11:19:34 - INFO - [4.72secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 11:19:35 - INFO - [5.71secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-24 11:19:36 - INFO - [6.46secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 11:19:37 - INFO - [6.86secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 11:19:38 - INFO - [8.09secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-24 11:19:38 - INFO - [8.58secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 11:19:39 - INFO - [9.28secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-24 11:19:39 - INFO - [9.70secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 11:19:40 - INFO - [10.76secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-24 11:19:41 - INFO - [11.25secondes]-L'utilisateur a démarré une nouvelle partie.

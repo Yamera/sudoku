@@ -1,0 +1,27 @@
+2024-04-24 11:44:34 - INFO - [0.00secondes]-This is an informational message.
+2024-04-24 11:44:34 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-24 11:44:34 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-24 11:44:35 - INFO - [1.60secondes]-La partie est commencé.
+2024-04-24 11:44:35 - DEBUG - [1.61secondes]-Grille générée
+2024-04-24 11:44:35 - DEBUG - [1.65secondes]-Lancement du jeu réussi
+2024-04-24 11:44:35 - DEBUG - [1.65secondes]-La difficulté est de info
+2024-04-24 11:44:36 - INFO - [2.68secondes]-L'utilisateur a selectionne (8, 6)
+2024-04-24 11:44:37 - INFO - [3.47secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 11:44:40 - INFO - [6.20secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-24 11:44:41 - INFO - [7.79secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 11:44:43 - INFO - [9.14secondes]-L'utilisateur a selectionne (8, 8)
+2024-04-24 11:44:44 - INFO - [10.31secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-24 11:44:45 - INFO - [11.13secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 11:44:46 - INFO - [12.22secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-24 11:44:47 - INFO - [12.99secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 11:44:48 - INFO - [14.30secondes]-L'utilisateur a selectionne (8, 7)
+2024-04-24 11:44:49 - INFO - [15.22secondes]-L'utilisateur a demandé un indice.
+2024-04-24 11:44:49 - INFO - [15.22secondes]-Indice : Le(s) chiffre(s) 2, 3, 4 peuvent être ajoutés à la ligne 7, colonne 8.
+2024-04-24 11:44:50 - INFO - [16.34secondes]-L'utilisateur a selectionne (8, 7)
+2024-04-24 11:44:50 - INFO - [16.76secondes]-L'utilisateur a cliqué sur 5
+2024-04-24 11:44:50 - CRITICAL - [16.76secondes]-Mauvaise entrée. Chances restantes: 2
+2024-04-24 11:44:51 - INFO - [17.67secondes]-L'utilisateur a cliqué sur 4
+2024-04-24 11:44:51 - INFO - [17.67secondes]-Placement du chiffre 4 réussi.
+2024-04-24 11:45:03 - INFO - [29.82secondes]-L'utilisateur a selectionne (6, 7)
+2024-04-24 11:45:04 - INFO - [30.48secondes]-L'utilisateur a cliqué sur 7
+2024-04-24 11:45:04 - INFO - [30.48secondes]-Placement du chiffre 7 réussi.

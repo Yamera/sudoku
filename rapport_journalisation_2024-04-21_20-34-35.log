@@ -1,0 +1,57 @@
+2024-04-21 20:34:35 - INFO - [0.00secondes]-This is an informational message.
+2024-04-21 20:34:35 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-21 20:34:36 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-21 20:34:44 - INFO - [8.15secondes]-La partie est commencé.
+2024-04-21 20:34:44 - DEBUG - [8.16secondes]-Grille générée
+2024-04-21 20:34:44 - DEBUG - [8.21secondes]-Lancement du jeu réussi
+2024-04-21 20:34:44 - DEBUG - [8.21secondes]-La difficulté est Facile
+2024-04-21 20:34:46 - DEBUG - [10.24secondes]-Clic de la souris détecté
+2024-04-21 20:34:46 - INFO - [10.24secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-21 20:34:46 - DEBUG - [10.24secondes]-Changement de difficulté effectué avec succès.
+2024-04-21 20:34:46 - DEBUG - [10.97secondes]-Clic de la souris détecté
+2024-04-21 20:34:46 - INFO - [10.97secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-21 20:34:46 - DEBUG - [10.97secondes]-Clic du bouton refresh détecté
+2024-04-21 20:34:46 - DEBUG - [10.97secondes]-Les chances ont été réinitialisées à 3
+2024-04-21 20:34:48 - DEBUG - [12.36secondes]-Clic de la souris détecté
+2024-04-21 20:34:48 - INFO - [12.36secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-21 20:34:48 - DEBUG - [12.36secondes]-Changement de difficulté effectué avec succès.
+2024-04-21 20:34:49 - DEBUG - [13.03secondes]-Clic de la souris détecté
+2024-04-21 20:34:49 - INFO - [13.03secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-21 20:34:49 - DEBUG - [13.03secondes]-Clic du bouton refresh détecté
+2024-04-21 20:34:49 - DEBUG - [13.04secondes]-Les chances ont été réinitialisées à 3
+2024-04-21 20:34:50 - DEBUG - [14.30secondes]-Clic de la souris détecté
+2024-04-21 20:34:50 - INFO - [14.30secondes]-Nouvelle difficulté sélectionnée: Easy.
+2024-04-21 20:34:50 - DEBUG - [14.30secondes]-Changement de difficulté effectué avec succès.
+2024-04-21 20:34:51 - DEBUG - [15.13secondes]-Clic de la souris détecté
+2024-04-21 20:34:51 - INFO - [15.13secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-21 20:34:51 - DEBUG - [15.13secondes]-Clic du bouton refresh détecté
+2024-04-21 20:34:51 - DEBUG - [15.13secondes]-Les chances ont été réinitialisées à 3
+2024-04-21 20:34:52 - DEBUG - [16.16secondes]-Clic de la souris détecté
+2024-04-21 20:34:52 - INFO - [16.16secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-21 20:34:52 - DEBUG - [16.16secondes]-Clic du bouton refresh détecté
+2024-04-21 20:34:52 - DEBUG - [16.16secondes]-Les chances ont été réinitialisées à 3
+2024-04-21 20:34:52 - DEBUG - [16.55secondes]-Clic de la souris détecté
+2024-04-21 20:34:52 - INFO - [16.55secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-21 20:34:52 - DEBUG - [16.55secondes]-Clic du bouton refresh détecté
+2024-04-21 20:34:52 - DEBUG - [16.56secondes]-Les chances ont été réinitialisées à 3
+2024-04-21 20:34:52 - DEBUG - [16.92secondes]-Clic de la souris détecté
+2024-04-21 20:34:52 - INFO - [16.92secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-21 20:34:52 - DEBUG - [16.92secondes]-Clic du bouton refresh détecté
+2024-04-21 20:34:52 - DEBUG - [16.92secondes]-Les chances ont été réinitialisées à 3
+2024-04-21 20:34:53 - DEBUG - [17.29secondes]-Clic de la souris détecté
+2024-04-21 20:34:53 - INFO - [17.29secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-21 20:34:53 - DEBUG - [17.29secondes]-Clic du bouton refresh détecté
+2024-04-21 20:34:53 - DEBUG - [17.29secondes]-Les chances ont été réinitialisées à 3
+2024-04-21 20:34:54 - DEBUG - [18.13secondes]-Clic de la souris détecté
+2024-04-21 20:34:54 - INFO - [18.13secondes]-L'utilisateur a selectionné (5, 9)
+2024-04-21 20:34:54 - DEBUG - [18.91secondes]-Clic de la souris détecté
+2024-04-21 20:34:54 - DEBUG - [18.91secondes]-Clic du bouton d'indice détecté
+2024-04-21 20:34:54 - INFO - [18.91secondes]-L'utilisateur a demandé un indice.
+2024-04-21 20:34:54 - INFO - [18.91secondes]-Indice : Le(s) chiffre(s) 9 peuvent être ajoutés à la ligne 9, colonne 5.
+2024-04-21 20:34:54 - DEBUG - [18.91secondes]-Un indice a été généré avec succès
+2024-04-21 20:34:56 - DEBUG - [20.75secondes]-Clic de la souris détecté
+2024-04-21 20:34:56 - INFO - [20.75secondes]- Clic en dehors des zones interactives.
+2024-04-21 20:34:57 - DEBUG - [21.43secondes]-Clic de la souris détecté
+2024-04-21 20:34:58 - DEBUG - [22.43secondes]-Clic de la souris détecté
+2024-04-21 20:34:58 - INFO - [22.43secondes]- Clic en dehors des zones interactives.
+2024-04-21 20:34:59 - DEBUG - [23.33secondes]-Clic de la souris détecté

@@ -1,0 +1,9 @@
+2024-04-24 11:04:57 - INFO - [0.00secondes]-This is an informational message.
+2024-04-24 11:04:57 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-24 11:04:57 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-24 11:04:58 - INFO - [1.38secondes]-La partie est commencé.
+2024-04-24 11:04:58 - DEBUG - [1.39secondes]-Grille générée
+2024-04-24 11:04:58 - DEBUG - [1.42secondes]-Lancement du jeu réussi
+2024-04-24 11:04:58 - DEBUG - [1.42secondes]-La difficulté est Facile
+2024-04-24 11:05:00 - DEBUG - [3.42secondes]-Clic de la souris détecté
+2024-04-24 11:05:00 - INFO - [3.42secondes]-L'utilisateur a selectionné (9, 8)

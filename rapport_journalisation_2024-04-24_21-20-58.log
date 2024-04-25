@@ -1,0 +1,18 @@
+2024-04-24 21:20:58 - INFO - [0.00secondes]-This is an informational message.
+2024-04-24 21:20:58 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-24 21:20:58 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-24 21:20:59 - INFO - [1.66secondes]-La partie est commencé.
+2024-04-24 21:20:59 - DEBUG - [1.66secondes]-Grille générée
+2024-04-24 21:20:59 - DEBUG - [1.69secondes]-Lancement du jeu réussi
+2024-04-24 21:20:59 - DEBUG - [1.69secondes]-La difficulté initiale a été initialisé à Easy
+2024-04-24 21:21:00 - DEBUG - [2.23secondes]-Clic de la souris détecté
+2024-04-24 21:21:00 - INFO - [2.24secondes]-L'utilisateur a selectionne (8, 8)
+2024-04-24 21:21:02 - DEBUG - [3.84secondes]-Clic de la souris détecté
+2024-04-24 21:21:02 - DEBUG - [3.84secondes]- Clic en dehors des zones interactives.
+2024-04-24 21:21:02 - INFO - [3.84secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 21:21:02 - DEBUG - [3.84secondes]-Changement de difficulté effectué avec succès.
+2024-04-24 21:21:03 - DEBUG - [5.14secondes]-Clic de la souris détecté
+2024-04-24 21:21:03 - INFO - [5.15secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 21:21:03 - DEBUG - [5.15secondes]-Clic du bouton refresh détecté
+2024-04-24 21:21:03 - INFO - [5.15secondes]-La nouvelle difficulté est Intermediate
+2024-04-24 21:21:03 - DEBUG - [5.15secondes]-Les chances ont été réinitialisées à 3

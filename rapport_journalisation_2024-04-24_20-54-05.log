@@ -1,0 +1,33 @@
+2024-04-24 20:54:05 - INFO - [0.00secondes]-This is an informational message.
+2024-04-24 20:54:05 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-24 20:54:05 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-24 20:54:07 - INFO - [1.90secondes]-La partie est commencé.
+2024-04-24 20:54:07 - DEBUG - [1.91secondes]-Grille générée
+2024-04-24 20:54:07 - DEBUG - [1.95secondes]-Lancement du jeu réussi
+2024-04-24 20:54:07 - DEBUG - [1.95secondes]-La difficulté est de info
+2024-04-24 20:54:07 - INFO - [2.68secondes]-L'utilisateur a selectionne (7, 7)
+2024-04-24 20:54:08 - INFO - [3.50secondes]-L'utilisateur a cliqué sur 2
+2024-04-24 20:54:08 - CRITICAL - [3.50secondes]-Mauvaise entrée. Chances restantes: 2
+2024-04-24 20:54:09 - INFO - [4.12secondes]-L'utilisateur a cliqué sur 3
+2024-04-24 20:54:09 - CRITICAL - [4.12secondes]-Mauvaise entrée. Chances restantes: 1
+2024-04-24 20:54:10 - INFO - [5.61secondes]-L'utilisateur a cliqué sur 4
+2024-04-24 20:54:10 - CRITICAL - [5.61secondes]-Mauvaise entrée. Chances restantes: 0
+2024-04-24 20:54:10 - CRITICAL - [5.61secondes]-Les chances sont épuisées
+2024-04-24 20:54:12 - INFO - [6.85secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 20:54:14 - INFO - [9.78secondes]-L'utilisateur a selectionne (9, 8)
+2024-04-24 20:54:15 - INFO - [10.09secondes]-L'utilisateur a cliqué sur 3
+2024-04-24 20:54:15 - CRITICAL - [10.09secondes]-Mauvaise entrée. Chances restantes: 2
+2024-04-24 20:54:15 - INFO - [10.67secondes]-L'utilisateur a selectionne (9, 9)
+2024-04-24 20:54:20 - INFO - [15.38secondes]-L'utilisateur a cliqué sur 9
+2024-04-24 20:54:20 - INFO - [15.38secondes]-Placement du chiffre 9 réussi.
+2024-04-24 20:54:22 - DEBUG - [17.67secondes]- Clic en dehors des zones interactives.
+2024-04-24 20:54:22 - INFO - [17.67secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 20:54:23 - INFO - [18.17secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 20:54:24 - INFO - [19.16secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 20:54:24 - INFO - [19.68secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 20:54:25 - DEBUG - [20.60secondes]- Clic en dehors des zones interactives.
+2024-04-24 20:54:25 - INFO - [20.60secondes]- Le niveau de difficulté est: Intermediate.
+2024-04-24 20:54:26 - INFO - [21.28secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 20:54:27 - DEBUG - [22.17secondes]- Clic en dehors des zones interactives.
+2024-04-24 20:54:27 - INFO - [22.18secondes]- Le niveau de difficulté est: Advanced.
+2024-04-24 20:54:27 - INFO - [22.62secondes]-L'utilisateur a démarré une nouvelle partie.

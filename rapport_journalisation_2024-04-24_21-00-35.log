@@ -1,0 +1,21 @@
+2024-04-24 21:00:35 - INFO - [0.00secondes]-This is an informational message.
+2024-04-24 21:00:35 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-24 21:00:35 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-24 21:00:37 - INFO - [1.44secondes]-La partie est commencé.
+2024-04-24 21:00:37 - DEBUG - [1.44secondes]-Grille générée
+2024-04-24 21:00:37 - DEBUG - [1.48secondes]-Lancement du jeu réussi
+2024-04-24 21:00:37 - DEBUG - [1.48secondes]-La difficulté initiale a été initialisé à Easy
+2024-04-24 21:00:38 - INFO - [2.18secondes]-L'utilisateur a selectionne (6, 6)
+2024-04-24 21:00:38 - INFO - [2.58secondes]-L'utilisateur a cliqué sur 2
+2024-04-24 21:00:38 - INFO - [2.58secondes]-Placement du chiffre 2 réussi.
+2024-04-24 21:00:39 - INFO - [3.41secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 21:00:39 - DEBUG - [4.08secondes]- Clic en dehors des zones interactives.
+2024-04-24 21:00:39 - INFO - [4.08secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 21:00:40 - INFO - [4.50secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 21:00:40 - DEBUG - [5.09secondes]- Clic en dehors des zones interactives.
+2024-04-24 21:00:40 - INFO - [5.09secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 21:00:41 - DEBUG - [5.47secondes]- Clic en dehors des zones interactives.
+2024-04-24 21:00:41 - INFO - [5.98secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 21:00:42 - DEBUG - [6.52secondes]- Clic en dehors des zones interactives.
+2024-04-24 21:00:42 - INFO - [6.52secondes]- Le niveau de difficulté est: Intermediate.
+2024-04-24 21:00:42 - INFO - [6.97secondes]-L'utilisateur a démarré une nouvelle partie.

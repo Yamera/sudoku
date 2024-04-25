@@ -258,21 +258,37 @@ def afficher_indices(screen, indices, row, col):
 
 def main():
     global sudoku, selected_tile,selected_difficulty
-    splash_screen() #affiche la page initiale
+    try:
+        splash_screen() #affiche la page initiale
+    except Exception as e:
+        logger.log(f"Erreur lors de l'affichage d'écran: {str(e)}","critical")
     logger.log("La partie est commencé.", "info")
-    sudoku.generate_view_board(selected_difficulty) #Initialise le board selon le niveau de difficulte 
-    logger.log("Grille générée","debug")
-    refresh_button_rect, hint_button_rect, difficulty_button_rects = draw_sudoku_screen() 
+    try:
+        sudoku.generate_view_board(selected_difficulty) #Initialise le board selon le niveau de difficulte 
+        logger.log("Grille générée","debug")
+    except Exception as e:
+        logger.log(f"Erreur lors de la generation de la grille: {str(e)}", "critical" )
+    try:
+        refresh_button_rect, hint_button_rect, difficulty_button_rects = draw_sudoku_screen() 
+    except Exception as e:
+        logger.log(f"Erreur lors du dessin de l'écran.: {str(e)}","critical")
     running = True
     chances = 3
     clicked_tile = None
     Joue = True
-    draw_chances(screen,chances)
+    try:
+        draw_chances(screen,chances)
+    except Exception as e:
+        logger.log(f"Erreur lors de l'affichage de chances: {str(e)}","critical")
     logger.log(f"Lancement du jeu réussi","debug")
-    logger.log(f"La difficulté est de info","debug")
-    
+    selected_difficulty = Difficulty.EASY
+    logger.log(f"La difficulté initiale a été initialisé à {selected_difficulty}","debug")
     while running:
-        mouse_pos = pygame.mouse.get_pos()
+        try:
+            mouse_pos = pygame.mouse.get_pos()
+        except Exception as e:
+            logger.log(f"Erreur lors de la dectection de la position de la sourie","critical")
+
         over_any_button = any(rect.collidepoint(mouse_pos) for rect in difficulty_button_rects) or refresh_button_rect.collidepoint(
             mouse_pos) or hint_button_rect.collidepoint(mouse_pos)
         pygame.mouse.set_cursor(
@@ -283,44 +299,45 @@ def main():
                 running = False 
             elif event.type == MOUSEBUTTONDOWN:
                 # TODO 4.3. Réinitialisation du jeu
+                logger.log("Clic de la souris détecté","debug")
                 x,y = event.pos
                 clicked_outside = True 
-
                 if refresh_button_rect.collidepoint(event.pos):
                     logger.log("L'utilisateur a démarré une nouvelle partie.","info")
+                    logger.log("Clic du bouton refresh détecté","debug")
+                    logger.log(f"La nouvelle difficulté est {selected_difficulty}","info")
                     sudoku.generate_view_board(selected_difficulty)
                     selected_tile = None
                     chances = 3
+                    logger.log("Les chances ont été réinitialisées à 3","debug")
                     Joue = True
                     clicked_outside = False
                     draw_sudoku_screen()
                     draw_chances(screen,chances)
-                    # try :
-                    #     sudoku.generate_starting_board(selected_difficulty)
-                    # except Exception as e:
-                    #     logger.log(f"La grille ne s'est pas généré", "critical")
-                    # TODO
                 # TODO 4.3. Indices
                 elif hint_button_rect.collidepoint(event.pos) and Joue:
                     try:
                         if clicked_tile is not None:
                             row, col = clicked_tile
                             indices = sudoku.Indice(row, col) 
+                            logger.log("Clic du bouton d'indice détecté","debug")
                             logger.log(f"L'utilisateur a demandé un indice.", "info")
                             if indices:
                                 afficher_indices(screen, indices, row, col)
                                 logger.log(f"Indice : Le(s) chiffre(s) {', '.join(str(i) for i in indices)} peuvent être ajoutés à la ligne {row+1}, colonne {col + 1}.", "info")   
+                                logger.log("Un indice a été généré avec succès","debug")
                             else: 
-                                logger.log("Aucun indice disponible.", "warning") 
+                                logger.log("Aucun indice disponible: {str(e)}.", "critical") 
                                 afficher_indices(screen, indices, row, col)   
                         clicked_outside = False
                     except Exception as e: 
-                        logger.log(f"Erreur dans la demande d'indice","warning")         
-                elif any(rect.collidepoint((x, y)) for rect in difficulty_button_rects):
+                        logger.log(f"Erreur dans la demande d'indice: {str(e)}.","critical")         
+                
                     logger.log(f"Nouvelle difficulté sélectionnée: {selected_difficulty}.", "info")
                     clicked_outside = False
                 # Difficulty buttons
                 else:
+                    x,y = event.pos
                     clicked_tile= get_clicked_tile(x, y)
                     if clicked_tile != None and Joue:
                         row, col = clicked_tile
@@ -336,22 +353,24 @@ def main():
                             selected_tile = None
                         clicked_outside = False 
                 if clicked_outside:
-                    logger.log(" Clic en dehors des zones interactives.", "debug")
-                    for i, rect in enumerate(difficulty_button_rects):
-                        if rect.collidepoint(event.pos):
-                            logger.log(f" Le niveau de difficulté est: {selected_difficulty}.", "info")
-                            # TODO 4.3. Difficultés
-                            if i == 0:
-                                selected_difficulty = Difficulty.EASY
+                    try:
+                        logger.log(" Clic en dehors des zones interactives.", "debug")
+                        for i, rect in enumerate(difficulty_button_rects):
+                            if rect.collidepoint(event.pos):
+                                logger.log(f" Le niveau de difficulté est: {selected_difficulty}.", "info")
+                                # TODO 4.3. Difficultés
+                                if i == 0:
+                                    selected_difficulty = Difficulty.EASY
 
-                            elif i == 1:
-                                selected_difficulty = Difficulty.INTERMEDIATE
+                                elif i == 1:
+                                    selected_difficulty = Difficulty.INTERMEDIATE
 
-                            elif i == 2: 
-                                selected_difficulty = Difficulty.ADVANCED
-
-                            break
-                    
+                                elif i == 2: 
+                                    selected_difficulty = Difficulty.ADVANCED
+                                logger.log("Changement de difficulté effectué avec succès.", "debug")
+                                break
+                    except Exception as e:
+                        logger.log(f"Erreur lors du changement de difficulté: {str(e)}. ","critical")
             elif event.type == KEYDOWN:
                 # TODO 4.3. Insertion d'une case à la suite de l'appui du clavier (0-9)
                 if event.unicode in '0123456789' and Joue:
@@ -366,17 +385,20 @@ def main():
                             logger.log(f"Placement du chiffre {num} réussi.", "info")
                             if sudoku.Board_Complete():
                                 logger.log(f"La grille a été completé", "info")
-                                afficher_message_fin(screen, "Vous avez gagné.")
+                                afficher_message_fin(screen, "Vous avez gagné !")
+                                logger.log("Le message de victoire a été généré avec succès.","debug")
                                 logger.log(f"L'utilisateur a gagné !","info")
                                 pygame.display.flip()
+                                pygame.time.delay(4000)
                                 Joue = False
             
                         else:
                             chances -= 1
-                            logger.log(f"Mauvaise entrée. Chances restantes: {sudoku.chances}", "critical")
+                            logger.log(f"Mauvaise entrée. Chances restantes: {chances}", "critical")
                             if chances <= 0:
                                 afficher_message_fin(screen, "Vous avez perdu. Plus de chances.")
-                                logger.log(f"Les chances sont épuisées", "critical")
+                                logger.log("Le message de défaite a été généré avec succès.","debug")
+                                logger.log(f"Les chances sont épuisées: {str(e)}.", "critical")
                                 pygame.display.flip()
                                 Joue= False
                                 break
@@ -395,7 +417,6 @@ def main():
             if not running:
                 break
             draw_chances(screen,chances)
-
         pygame.display.flip()
 
     pygame.quit()
@@ -404,9 +425,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-#case encadre,debug
-#gestion clique, critical
-#numero ajouter a lecran, debug
-#message succes, debug
-#verif grille pleine erreur, critical
-#message etteur, debug

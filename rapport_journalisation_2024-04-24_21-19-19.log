@@ -1,0 +1,51 @@
+2024-04-24 21:19:19 - INFO - [0.00secondes]-This is an informational message.
+2024-04-24 21:19:19 - DEBUG - [0.01secondes]-This is a debug message.
+2024-04-24 21:19:19 - CRITICAL - [0.01secondes]-This is a critical message.
+2024-04-24 21:19:21 - INFO - [1.50secondes]-La partie est commencé.
+2024-04-24 21:19:21 - DEBUG - [1.50secondes]-Grille générée
+2024-04-24 21:19:21 - DEBUG - [1.54secondes]-Lancement du jeu réussi
+2024-04-24 21:19:21 - DEBUG - [1.54secondes]-La difficulté initiale a été initialisé à Easy
+2024-04-24 21:19:22 - DEBUG - [2.16secondes]-Clic de la souris détecté
+2024-04-24 21:19:22 - INFO - [2.16secondes]-L'utilisateur a selectionne (5, 8)
+2024-04-24 21:19:23 - DEBUG - [3.58secondes]-Clic de la souris détecté
+2024-04-24 21:19:23 - INFO - [3.58secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 21:19:23 - DEBUG - [3.58secondes]-Clic du bouton refresh détecté
+2024-04-24 21:19:23 - DEBUG - [3.59secondes]-Les chances ont été réinitialisées à 3
+2024-04-24 21:19:24 - DEBUG - [4.40secondes]-Clic de la souris détecté
+2024-04-24 21:19:24 - DEBUG - [4.40secondes]- Clic en dehors des zones interactives.
+2024-04-24 21:19:24 - DEBUG - [4.97secondes]-Clic de la souris détecté
+2024-04-24 21:19:24 - DEBUG - [4.97secondes]- Clic en dehors des zones interactives.
+2024-04-24 21:19:25 - DEBUG - [5.60secondes]-Clic de la souris détecté
+2024-04-24 21:19:25 - DEBUG - [5.60secondes]- Clic en dehors des zones interactives.
+2024-04-24 21:19:25 - INFO - [5.60secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 21:19:25 - DEBUG - [5.60secondes]-Changement de difficulté effectué avec succès.
+2024-04-24 21:19:27 - DEBUG - [7.46secondes]-Clic de la souris détecté
+2024-04-24 21:19:27 - INFO - [7.46secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 21:19:27 - DEBUG - [7.46secondes]-Clic du bouton refresh détecté
+2024-04-24 21:19:27 - DEBUG - [7.47secondes]-Les chances ont été réinitialisées à 3
+2024-04-24 21:19:28 - DEBUG - [8.70secondes]-Clic de la souris détecté
+2024-04-24 21:19:28 - DEBUG - [8.70secondes]- Clic en dehors des zones interactives.
+2024-04-24 21:19:28 - INFO - [8.71secondes]- Le niveau de difficulté est: Intermediate.
+2024-04-24 21:19:28 - DEBUG - [8.71secondes]-Changement de difficulté effectué avec succès.
+2024-04-24 21:19:32 - DEBUG - [12.35secondes]-Clic de la souris détecté
+2024-04-24 21:19:32 - INFO - [12.35secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 21:19:32 - DEBUG - [12.35secondes]-Clic du bouton refresh détecté
+2024-04-24 21:19:32 - DEBUG - [12.35secondes]-Les chances ont été réinitialisées à 3
+2024-04-24 21:19:35 - DEBUG - [15.11secondes]-Clic de la souris détecté
+2024-04-24 21:19:35 - DEBUG - [15.11secondes]- Clic en dehors des zones interactives.
+2024-04-24 21:19:38 - DEBUG - [18.69secondes]-Clic de la souris détecté
+2024-04-24 21:19:38 - DEBUG - [18.70secondes]- Clic en dehors des zones interactives.
+2024-04-24 21:19:38 - INFO - [18.70secondes]- Le niveau de difficulté est: Easy.
+2024-04-24 21:19:38 - DEBUG - [18.70secondes]-Changement de difficulté effectué avec succès.
+2024-04-24 21:19:39 - DEBUG - [19.54secondes]-Clic de la souris détecté
+2024-04-24 21:19:39 - INFO - [19.54secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 21:19:39 - DEBUG - [19.54secondes]-Clic du bouton refresh détecté
+2024-04-24 21:19:39 - DEBUG - [19.54secondes]-Les chances ont été réinitialisées à 3
+2024-04-24 21:19:46 - DEBUG - [26.69secondes]-Clic de la souris détecté
+2024-04-24 21:19:46 - DEBUG - [26.69secondes]- Clic en dehors des zones interactives.
+2024-04-24 21:19:46 - INFO - [26.69secondes]- Le niveau de difficulté est: Intermediate.
+2024-04-24 21:19:46 - DEBUG - [26.69secondes]-Changement de difficulté effectué avec succès.
+2024-04-24 21:19:47 - DEBUG - [27.71secondes]-Clic de la souris détecté
+2024-04-24 21:19:47 - INFO - [27.71secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 21:19:47 - DEBUG - [27.71secondes]-Clic du bouton refresh détecté
+2024-04-24 21:19:47 - DEBUG - [27.71secondes]-Les chances ont été réinitialisées à 3

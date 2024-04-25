@@ -1,7 +1,0 @@
-2024-04-17 22:04:40 - INFO - [0.00secondes]-This is an informational message.
-2024-04-17 22:04:40 - DEBUG - [0.00secondes]-This is a debug message.
-2024-04-17 22:04:40 - CRITICAL - [0.00secondes]-This is a critical message.
-2024-04-17 22:04:42 - INFO - [2.05secondes]-La partie est commencé.
-2024-04-17 22:04:43 - INFO - [3.29secondes]-Case selectionnée: (5, 4)
-2024-04-17 22:04:43 - INFO - [3.29secondes]-Case selectionnée: (5, 4)
-2024-04-17 22:04:43 - INFO - [3.30secondes]-Case selectionnée: (5, 4)

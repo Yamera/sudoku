@@ -1,0 +1,14 @@
+2024-04-24 10:48:15 - INFO - [0.00secondes]-This is an informational message.
+2024-04-24 10:48:15 - DEBUG - [0.00secondes]-This is a debug message.
+2024-04-24 10:48:15 - CRITICAL - [0.00secondes]-This is a critical message.
+2024-04-24 10:48:16 - INFO - [1.50secondes]-La partie est commencé.
+2024-04-24 10:48:16 - DEBUG - [1.54secondes]-Lancement du jeu réussi
+2024-04-24 10:48:16 - DEBUG - [1.54secondes]-La difficulté est Facile
+2024-04-24 10:48:17 - DEBUG - [2.32secondes]-Clic de la souris détecté
+2024-04-24 10:48:17 - INFO - [2.32secondes]-L'utilisateur a selectionné (9, 8)
+2024-04-24 10:48:18 - DEBUG - [3.01secondes]-Clic de la souris détecté
+2024-04-24 10:48:18 - INFO - [3.01secondes]-L'utilisateur a selectionné (8, 8)
+2024-04-24 10:48:19 - DEBUG - [3.93secondes]-Clic de la souris détecté
+2024-04-24 10:48:19 - INFO - [3.93secondes]-L'utilisateur a démarré une nouvelle partie.
+2024-04-24 10:48:19 - DEBUG - [3.93secondes]-Clic du bouton refresh détecté
+2024-04-24 10:48:19 - DEBUG - [3.93secondes]-Les chances ont été réinitialisées à 3

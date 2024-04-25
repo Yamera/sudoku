@@ -1,0 +1,7 @@
+2024-04-24 11:36:05 - INFO - [0.05secondes]-This is an informational message.
+2024-04-24 11:36:05 - DEBUG - [0.05secondes]-This is a debug message.
+2024-04-24 11:36:05 - CRITICAL - [0.07secondes]-This is a critical message.
+2024-04-24 11:36:07 - INFO - [1.72secondes]-La partie est commencé.
+2024-04-24 11:36:07 - DEBUG - [1.73secondes]-Grille générée
+2024-04-24 11:36:07 - DEBUG - [1.76secondes]-Lancement du jeu réussi
+2024-04-24 11:36:07 - DEBUG - [1.77secondes]-La difficulté est de info
